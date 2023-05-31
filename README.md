@@ -4,6 +4,8 @@
 
 A curated list of awesome resources, tools, and other shiny things for GPT prompt engineering.
 
+Consider giving it a ⭐️ if you like it to show your support!
+
 ## Contents
 
 - [Awesome GPT Prompt Engineering](#awesome-gpt-prompt-engineering)
