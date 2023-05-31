@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
- A curated list of awesome resources about GPT Prompt Engineering: guides, techniques, lists, and more...
+A curated list of awesome resources, tools, and other shiny things for GPT prompt engineering.
 
 ## Prompt Engineering : Guides
 
