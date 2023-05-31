@@ -34,6 +34,7 @@ Consider giving it a ⭐️ if you like it to show your support!
 
 ## Prompt Lists
 
+- [FlowGPT](https://flowgpt.com/): FlowGPT is the largest open source prompt community
 - [awesomegptprompts.com](https://www.awesomegptprompts.com/): Explore hundreds of the best ChatGPT Prompts
 - [fka/awesome-chatgpt-prompts](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts): Dataset of awesome chatgpt prompts
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts):  This repo includes ChatGPT prompt curation to use ChatGPT better. 
