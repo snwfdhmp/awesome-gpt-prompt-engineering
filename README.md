@@ -32,6 +32,10 @@ Consider giving it a ⭐️ if you like it to show your support!
 - [Zero Shot Chain of Thought](https://learnprompting.org/docs/intermediate/zero_shot_cot): Enable Chain of Thought with only a few words.
 - [Tree of Thought](https://github.com/dave1010/tree-of-thought-prompting):  Using Tree-of-Thought Prompting to boost ChatGPT's reasoning and improve its accuracy beyond what Chain of Thought is capable.
 
+## Prompt Injection
+
+- [Understanding Prompt Injections and What You Can Do About Them](https://www.prompthub.us/blog/understanding-prompt-injections-and-what-you-can-do-about-them): An introduction to prompt injections with examples and tactics you can use to mitigate potential risks in your application!
+
 ## Prompt Lists
 
 - [FlowGPT](https://flowgpt.com/): FlowGPT is the largest open source prompt community
