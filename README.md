@@ -159,3 +159,10 @@ with Large Language Models.
 # Contributing
 
 Contributions are always welcome! Please read the [contribution guidelines](contributing.md) first.
+
+How to help:
+
+- Add descriptions for resources that don't have them.
+- Add new resources to the list.
+- Fix typos or grammatical errors.g
+- Share this repository with others.
