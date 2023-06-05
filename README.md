@@ -11,67 +11,153 @@ Consider giving it a ⭐️ if you like it to show your support!
 - [Awesome GPT Prompt Engineering](#awesome-gpt-prompt-engineering)
 	- [Contents](#contents)
 	- [Guides](#guides)
+	- [Courses](#courses)
 	- [Techniques](#techniques)
-	- [Prompt Lists](#prompt-lists)
+	- [Prompt Collections](#prompt-collections)
 	- [Papers](#papers)
 	- [Books](#books)
-	- [Tutorials](#tutorials)
-	- [Blogs](#blogs)
-	- [Tools](#tools)
 	- [Communities](#communities)
+	- [Prompt Chaining](#prompt-chaining)
+	- [Prompt Generators](#prompt-generators)
+	- [Auto-GPT Related](#auto-gpt-related)
+	- [Prompt Injection](#prompt-injection)
+	- [Playgrounds and Alternative UIs](#playgrounds-and-alternative-uis)
+	- [ChatGPT Plug-ins](#chatgpt-plug-ins)
+	- [Prompt Engineering Jobs Offers](#prompt-engineering-jobs-offers)
+	- [AI Links Directories](#ai-links-directories)
+- [Contributing](#contributing)
 
 ## Guides
 
 - [Learn Prompting](https://learnprompting.org/docs/category/-basics): Introduction to Prompt Engineering and Prompt Engineering techniques
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide):  Guides, papers, lecture, notebooks and resources for prompt engineering.
+- [How to generate text: using different decoding methods for language generation with Transformers](https://huggingface.co/blog/how-to-generate): A guide to decoding methods for language generation with Transformers.
+- [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) - A visual guide to transformers, the core model used in GPT.
+- [Reddit's r/aipromptprogramming Tutorials Collection](https://www.reddit.com/r/aipromptprogramming/collection/d3a393ad-ef15-4f2a-a23e-18a5c90ff48d): A collection of tutorials for prompt engineering.
+
+## Courses
+
+- [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) - Coursera specialization by Andrew Ng, which includes a course on Sequence Models.
+- [Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing) - Coursera specialization focusing on NLP.
+- [Learn Prompting - A Free, Open Source Course on Communicating with AI](https://learnprompting.org/)
+- [PromptingGuide.AI](https://www.promptingguide.ai/)
 
 ## Techniques
 
+- [Few Shot Learning](https://blog.paperspace.com/few-shot-learning/): Everything you need to know about Few-Shot Learning
+- [Zero Shot Learning](https://arxiv.org/pdf/2205.11916.pdf): Large Language Models are Zero-Shot Reasoners
 - [Chain of Thought](https://learnprompting.org/docs/intermediate/chain_of_thought): Encourages the LLM to explain its reasoning to improve its accuracy.
-- [Tree of Thought](https://github.com/dave1010/tree-of-thought-prompting): Boost ChatGPT's reasoning and improve its accuracy beyond what Chain of Thought is capable.
 - [Zero Shot Chain of Thought](https://learnprompting.org/docs/intermediate/zero_shot_cot): Enable Chain of Thought with only a few words.
+- [Tree of Thoughts](https://arxiv.org/pdf/2305.10601.pdf): Tree of Thoughts: Deliberate Problem Solving
+with Large Language Models
 
-## Prompt Injection
-
-- [Understanding Prompt Injections and What You Can Do About Them](https://www.prompthub.us/blog/understanding-prompt-injections-and-what-you-can-do-about-them): An introduction to prompt injections with examples and tactics you can use to mitigate potential risks in your application!
-
-## Prompt Lists
+## Prompt Collections
 
 - [FlowGPT](https://flowgpt.com/): FlowGPT is the largest open source prompt community
 - [awesomegptprompts.com](https://www.awesomegptprompts.com/): Explore hundreds of the best ChatGPT Prompts
 - [fka/awesome-chatgpt-prompts](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts): Dataset of awesome chatgpt prompts
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts):  This repo includes ChatGPT prompt curation to use ChatGPT better. 
+- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
+- [PromptHub](https://prompthub.space/)
+- [ShowGPT.co](https://showgpt.co/templates)
+- [Best Data Science ChatGPT Prompts](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts)
+- [ChatGPT prompts uploaded by the FlowGPT community](https://flowgpt.com)
+- [Ignacio Velásquez 500+ ChatGPT Prompt Templates](https://ignacio-velasquez.notion.site/ignacio-velasquez/500-ChatGPT-Prompt-Templates-d9541e901b2b4e8f800e819bdc0256da)
+- [PromptPal](https://www.promptpal.net/)
+- [Hero GPT - AI Prompt Library](https://hero.page/ai-prompts)
+- [Reddit's ChatGPT Prompts](https://www.reddit.com/r/ChatGPT_Prompts/)
+- [Snack Prompt](https://snackprompt.com)
+- [ShareGPT - Share your prompts and your entire conversations](https://sharegpt.com)
+- [Prompt Search - a search engine for AI Prompts](https://www.ptsearch.info/tags/list/)
+- [PromptBase - The largest prompts marketplace on the web](https://promptbase.com/)
 
 ## Papers
 
 - [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) - Paper introducing GPT-3 by OpenAI.
 - [Fine-Tuning Language Models from Human Preferences](https://arxiv.org/abs/1909.08593) - Another important paper from OpenAI on fine-tuning language models.
+- [Prompting Transformers with Text for Structured Data Queries](https://arxiv.org/abs/2104.08691): This paper discusses the use of "prompt tuning" for learning "soft prompts" to condition frozen language models to perform specific downstream tasks. The approach outperforms GPT-3's "few-shot" learning by a large margin and becomes more competitive with scale.
+- [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/abs/2104.08691): This work explores "prompt tuning", a mechanism for learning "soft prompts" to condition frozen language models to perform specific downstream tasks. The method matches the strong performance of model tuning and confers benefits in robustness to domain transfer.
+- [Deep Attentive Learning for Stock Movement Prediction From Social Media Text and Company Correlations](https://aclanthology.org/2020.emnlp-main.676): This paper introduces an architecture that blends chaotic temporal signals from financial data, social media, and inter-stock relationships via a graph neural network in a hierarchical temporal fashion for accurate stock forecasting.
 
 ## Books
 
 - [You Look Like a Thing and I Love You](https://janelleshane.com/book-you-look-like-a-thing-and-i-love-you) - A book about AI with a focus on language models.
-
-## Tutorials
-
-- [How to generate text: using different decoding methods for language generation with Transformers](https://huggingface.co/blog/how-to-generate) - A tutorial by Hugging Face.
-- [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) - A visual guide to transformers, the core model used in GPT.
-
-## Blogs
-
-- [OpenAI Blog](https://openai.com/blog/) - The blog of OpenAI, the organization behind GPT-3.
-- [Jay Alammar's Blog](http://jalammar.github.io/) - A blog with many visual explanations of concepts in deep learning and NLP.
-
-## Tools
-
-- [Hugging Face Transformers](https://github.com/huggingface/transformers) - A Python library with implementations of many state-of-the-art transformer models, including GPT-2 and GPT-3.
-- [GPT-3 Sandbox](https://gpt3demo.com/) - An online tool for experimenting with GPT-3.
+- [The ChatGPT Prompt Book](https://lifearchitect.ai/chatgpt-prompt-book/) - A book dedicated to ChatGPT prompts.
 
 ## Communities
 
-- [r/MachineLearning](https://www.reddit.com/r/MachineLearning/) - The Machine Learning subreddit often has discussions on GPT and other language models.
-- [Hugging Face Forum](https://discuss.huggingface.co/) - A forum for discussing Hugging Face's transformer models, including GPT.
+- [OpenAI Discord Server](https://discord.com/invite/openai): The official OpenAI Discord server.
+- [ChatGPT Prompt Engineering Discord Server](https://dsc.gg/chatgpt): A Discord server dedicated to prompt engineering.
+- [r/MachineLearning](https://www.reddit.com/r/MachineLearning/): The Machine Learning subreddit often has discussions on GPT and other language models.
+- [Hugging Face Forum](https://discuss.huggingface.co/): A forum for discussing Hugging Face's transformer models, including GPT.
+- [ChatGPT Community Discord Server](https://discord.gg/cgpt): A Discord server dedicated to ChatGPT.
+- [Reddit's ChatGPT Discord Server](https://discord.gg/NuefU36EC2): r/chatgpt Discord server.
 
----
+## Prompt Chaining
+
+- [LangChain Github Repository](https://github.com/hwchase17/langchain): Building applications with LLMs through composability
+- [Conju.ai](https://app.conju.ai/): A visual prompt chaining app
+- [Voiceflow](https://www.voiceflow.com): Professional collaborative visual prompt-chaining tool
+
+## Prompt Generators
+
+- [BossGPT](https://www.gptboss.com)
+- [Promptify](https://promptify.pro): Automatically Improve your Prompt!
+- [Fusion](https://fusion.tiiny.site/home.html): Elevate your output with Fusion's smart prompts
+- [Bumble-Prompts](https://bumble-prompts.vercel.app/)
+- [ChatGPT Prompt Generator](https://huggingface.co/spaces/merve/ChatGPT-prompt-generator)
+- [Prompts Templates Builder](https://prompts.ai)
+- [PromptPerfect](https://promptperfect.jina.ai/)
+- [Hero GPT](https://hero.page/ai-prompts): AI Prompt Generator
+- [LMQL](https://github.com/eth-sri/lmql): A query language for programming large language models
+- [OpenPromptStudio](https://moonvy.com/apps/ops/)
+
+## Auto-GPT Related
+
+- [Auto-GPT Official Repo](https://github.com/Significant-Gravitas/Auto-GPT)
+- [Auto-GPT God Mode](https://godmode.space/)
+- [OpenAIMaster's Guide to Auto-GPT](https://openaimaster.com/how-does-autogpt-work-an-ai-tool-to-create-full-projects/): How does Auto-GPT work, an AI tool to create full projects
+- [AgentGPT](https://agentgpt.reworkd.ai): in-browser implementation of Auto-GPT
+
+## Prompt Injection
+
+- [Understanding Prompt Injections and What You Can Do About Them](https://www.prompthub.us/blog/understanding-prompt-injections-and-what-you-can-do-about-them): An introduction to prompt injections with examples and tactics you can use to mitigate potential risks in your application.
+- [Learn Prompting's Prompt Injection guide](https://learnprompting.org/docs/prompt_hacking/injection): A guide to prompt injections with examples.
+- [Prompt injection: What's the worst that can happen?](https://simonwillison.net/2023/Apr/14/worst-that-can-happen/)
+- [Prompt injections are bad, mkay?](https://greshake.github.io/)
+
+## Playgrounds and Alternative UIs
+
+- [Official OpenAI Playground](https://platform.openai.com/playground)
+- [Nat.Dev - Multiple Chat AI Playground & Comparer](https://nat.dev)
+- [Poe.com - All in one playground: GPT4, Sage, Claude+, Dragonfly, and more...](https://poe.com)
+- [Ora.sh GPT-4 Chatbots](https://ora.sh/gpt-4)
+- [Better ChatGPT - A web app with a better UI for exploring OpenAI's ChatGPT API ](https://bettergpt.chat)
+- [LMQL.AI - A programming language and platform for language models](https://lmql.ai/playground/#calc)
+- [Vercel Ai Playground - One prompt, multiple Models (including GPT-4)](https://play.vercel.ai)
+
+## ChatGPT Plug-ins
+
+- [Plug-ins - OpenAI Official Page](https://openai.com/blog/chatgpt-plugins)
+- [Plug-in example code in Python](https://github.com/ruvnet/chatgpt_plugin_python)
+- [Surfer Plug-in source code](https://github.com/ruvnet/Surfer)
+- [Security - Create, deploy, monitor and secure LLM Plugins](https://www.security.dev/) (PAID)
+
+## Prompt Engineering Jobs Offers
+
+- [Prompt-Talent](https://www.prompt-talent.com): Prompt engineering job offers.
+
+## AI Links Directories
+
+- [FuturePedia - The Largest AI Tools Directory Updated Daily](https://www.futurepedia.io/ai-tools)
+- [Theresanaiforthat - The biggest AI aggregator. Used by over 800,000 humans.](https://theresanaiforthat.com/s/gpt/)
+- [Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)
+- [AiTreasureBox](https://github.com/superiorlu/AiTreasureBox)
+- [EwingYangs Awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt)
+- [KennethanCeyer Awesome-llmops](https://github.com/KennethanCeyer/awesome-llmops)
+- [KennethanCeyer awesome-llm](https://github.com/KennethanCeyer/awesome-llm)
+- [tensorchord Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps)
+
+# Contributing
 
 Contributions are always welcome! Please read the [contribution guidelines](contributing.md) first.
-
----
