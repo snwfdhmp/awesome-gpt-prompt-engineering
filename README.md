@@ -11,7 +11,6 @@ Consider giving it a ⭐️ if you like it to show your support!
 - [Awesome GPT Prompt Engineering](#awesome-gpt-prompt-engineering)
 	- [Contents](#contents)
 	- [Guides](#guides)
-	- [Courses](#courses)
 	- [Techniques](#techniques)
 	- [Prompt Collections](#prompt-collections)
 	- [Papers](#papers)
@@ -39,14 +38,10 @@ Consider giving it a ⭐️ if you like it to show your support!
 - [How to Communicate with ChatGPT – A Guide to Prompt Engineering](https://www.freecodecamp.org/news/how-to-communicate-with-chatgpt-a-guide-to-prompt-engineering/): A guide that explains what prompt engineering is and how you can use it to improve your communication with AI tools.
 - [A Beginner's Guide to ChatGPT Prompt Engineering](https://www.datacamp.com/tutorial/a-beginners-guide-to-chatgpt-prompt-engineering): A beginner-friendly guide that delves into the art and science of Prompt Engineering.
 - [Best practices for prompt engineering with OpenAI API](https://help.openai.com/articles/6654000-best-practices-for-prompt-engineering-with-openai-api): A guide by OpenAI that provides best practices for prompt engineering.
-
-## Courses
-
-- [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning): Coursera specialization by Andrew Ng, which includes a course on Sequence Models.
 - [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/): A short course on prompt engineering by deeplearning.ai.
 - [Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing): Coursera specialization focusing on NLP.
-- [Learn Prompting - A Free, Open Source Course on Communicating with AI](https://learnprompting.org/)
-- [PromptingGuide.AI](https://www.promptingguide.ai/)
+- [Learn Prompting](https://learnprompting.org/): A Free, Open Source Course on Communicating with AI
+- [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning): Coursera specialization by Andrew Ng, which includes a course on Sequence Models.
 
 ## Techniques
 
