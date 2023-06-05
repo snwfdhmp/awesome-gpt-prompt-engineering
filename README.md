@@ -38,6 +38,7 @@ Consider giving it a ⭐️ if you like it to show your support!
 ## Courses
 
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning): Coursera specialization by Andrew Ng, which includes a course on Sequence Models.
+- [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/): A short course on prompt engineering by deeplearning.ai.
 - [Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing): Coursera specialization focusing on NLP.
 - [Learn Prompting - A Free, Open Source Course on Communicating with AI](https://learnprompting.org/)
 - [PromptingGuide.AI](https://www.promptingguide.ai/)
@@ -118,7 +119,7 @@ with Large Language Models.
 - [Auto-GPT Official Repo](https://github.com/Significant-Gravitas/Auto-GPT)
 - [Auto-GPT God Mode](https://godmode.space/)
 - [OpenAIMaster's Guide to Auto-GPT](https://openaimaster.com/how-does-autogpt-work-an-ai-tool-to-create-full-projects/): How does Auto-GPT work, an AI tool to create full projects.
-- [AgentGPT](https://agentgpt.reworkd.ai): in-browser implementation of Auto-GPT.
+- [AgentGPT](https://agentgpt.reworkd.ai): GPT agents in browser.
 
 ## Prompt Injection
 
