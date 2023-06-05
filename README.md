@@ -14,7 +14,7 @@ Consider giving it a ⭐️ if you like it to show your support!
 	- [Courses](#courses)
 	- [Techniques](#techniques)
 	- [Prompt Collections](#prompt-collections)
-	- [Papers](#papers)
+	- [Papers.](#papers)
 	- [Books](#books)
 	- [Communities](#communities)
 	- [Prompt Chaining](#prompt-chaining)
@@ -29,7 +29,7 @@ Consider giving it a ⭐️ if you like it to show your support!
 
 ## Guides
 
-- [Learn Prompting](https://learnprompting.org/docs/category/-basics): Introduction to Prompt Engineering and Prompt Engineering techniques
+- [Learn Prompting](https://learnprompting.org/docs/category/-basics): Introduction to Prompt Engineering and Prompt Engineering techniques.
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide):  Guides, papers, lecture, notebooks and resources for prompt engineering.
 - [How to generate text: using different decoding methods for language generation with Transformers](https://huggingface.co/blog/how-to-generate): A guide to decoding methods for language generation with Transformers.
 - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/): A visual guide to transformers, the core model used in GPT.
@@ -44,35 +44,34 @@ Consider giving it a ⭐️ if you like it to show your support!
 
 ## Techniques
 
-- [Few Shot Learning](https://blog.paperspace.com/few-shot-learning/): Everything you need to know about Few-Shot Learning
-- [Zero Shot Learning](https://arxiv.org/pdf/2205.11916.pdf): Large Language Models are Zero-Shot Reasoners
+- [Few Shot Learning](https://blog.paperspace.com/few-shot-learning/): Everything you need to know about Few-Shot Learning.
+- [Zero Shot Learning](https://arxiv.org/pdf/2205.11916.pdf): Large Language Models are Zero-Shot Reasoners.
 - [Chain of Thought](https://learnprompting.org/docs/intermediate/chain_of_thought): Encourages the LLM to explain its reasoning to improve its accuracy.
 - [Zero Shot Chain of Thought](https://learnprompting.org/docs/intermediate/zero_shot_cot): Enable Chain of Thought with only a few words.
-- [Tree of Thoughts](https://arxiv.org/pdf/2305.10601.pdf): Tree of Thoughts: Deliberate Problem Solving
-with Large Language Models
+- [Tree of Thoughts](https://arxiv.org/pdf/2305.10601.pdf): Tree of Thoughts: Deliberate Problem Solving.
+with Large Language Models.
 
 ## Prompt Collections
 
-- [FlowGPT](https://flowgpt.com/): FlowGPT is the largest open source prompt community
-- [awesomegptprompts.com](https://www.awesomegptprompts.com/): Explore hundreds of the best ChatGPT Prompts
-- [fka/awesome-chatgpt-prompts](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts): Dataset of awesome chatgpt prompts
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts):  This repo includes ChatGPT prompt curation to use ChatGPT better. 
+- [FlowGPT](https://flowgpt.com/): FlowGPT is the largest open source prompt community.
+- [awesomegptprompts.com](https://www.awesomegptprompts.com/): Explore hundreds of the best ChatGPT Prompts.
+- [fka/awesome-chatgpt-prompts](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts): Dataset of awesome chatgpt prompts.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts):  This repo includes ChatGPT prompt curation to use ChatGPT better. .
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
 - [PromptHub](https://prompthub.space/)
 - [ShowGPT.co](https://showgpt.co/templates)
 - [Best Data Science ChatGPT Prompts](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts)
 - [ChatGPT prompts uploaded by the FlowGPT community](https://flowgpt.com)
-- [Ignacio Velásquez Prompt Templates](https://ignacio-velasquez.notion.site/ignacio-velasquez/500-ChatGPT-Prompt-Templates-d9541e901b2b4e8f800e819bdc0256da): 500+ ChatGPT Prompt Templates
+- [Ignacio Velásquez Prompt Templates](https://ignacio-velasquez.notion.site/ignacio-velasquez/500-ChatGPT-Prompt-Templates-d9541e901b2b4e8f800e819bdc0256da): 500+ ChatGPT Prompt Templates.
 - [PromptPal](https://www.promptpal.net/): A collection of prompts for GPT-3 and other language models.
-- [Hero GPT](https://hero.page/ai-prompts): AI Prompt Library
+- [Hero GPT](https://hero.page/ai-prompts): AI Prompt Library.
 - [Reddit's ChatGPT Prompts](https://www.reddit.com/r/ChatGPT_Prompts/)
-- [Snack Prompt](https://snackprompt.com): GPT prompts collection, has a a Chrome extension
-- [ShareGPT](https://sharegpt.com): Share your prompts and your entire conversations
-- [Prompt Search](https://www.ptsearch.info/tags/list/): a search engine for AI Prompts
-- [PromptBase](https://promptbase.com/): The largest prompts marketplace on the web
+- [Snack Prompt](https://snackprompt.com): GPT prompts collection, has a a Chrome extension.
+- [ShareGPT](https://sharegpt.com): Share your prompts and your entire conversations.
+- [Prompt Search](https://www.ptsearch.info/tags/list/): a search engine for AI Prompts.
+- [PromptBase](https://promptbase.com/): The largest prompts marketplace on the web.
 
-## Papers
-
+## Papers.
 - [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165): GPT-3 introduction paper by OpenAI.
 - [Fine-Tuning Language Models from Human Preferences](https://arxiv.org/abs/1909.08593): Important paper on fine-tuning language models by OpenAI.
 - [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/abs/2104.08691): Explores the benefits of "prompt tuning" for robust task performance.
@@ -94,29 +93,29 @@ with Large Language Models
 
 ## Prompt Chaining
 
-- [LangChain Github Repository](https://github.com/hwchase17/langchain): Building applications with LLMs through composability
-- [Conju.ai](https://app.conju.ai/): A visual prompt chaining app
-- [Voiceflow](https://www.voiceflow.com): Professional collaborative visual prompt-chaining tool
+- [LangChain Github Repository](https://github.com/hwchase17/langchain): Building applications with LLMs through composability.
+- [Conju.ai](https://app.conju.ai/): A visual prompt chaining app.
+- [Voiceflow](https://www.voiceflow.com): Professional collaborative visual prompt-chaining tool.
 
 ## Prompt Generators
 
 - [BossGPT](https://www.gptboss.com)
-- [Promptify](https://promptify.pro): Automatically Improve your Prompt!
-- [Fusion](https://fusion.tiiny.site/home.html): Elevate your output with Fusion's smart prompts
+- [Promptify](https://promptify.pro): Automatically Improve your Prompt.
+- [Fusion](https://fusion.tiiny.site/home.html): Elevate your output with Fusion's smart prompts.
 - [Bumble-Prompts](https://bumble-prompts.vercel.app/)
 - [ChatGPT Prompt Generator](https://huggingface.co/spaces/merve/ChatGPT-prompt-generator)
 - [Prompts Templates Builder](https://prompts.ai)
 - [PromptPerfect](https://promptperfect.jina.ai/)
-- [Hero GPT](https://hero.page/ai-prompts): AI Prompt Generator
-- [LMQL](https://github.com/eth-sri/lmql): A query language for programming large language models
+- [Hero GPT](https://hero.page/ai-prompts): AI Prompt Generator.
+- [LMQL](https://github.com/eth-sri/lmql): A query language for programming large language models.
 - [OpenPromptStudio](https://moonvy.com/apps/ops/)
 
 ## Auto-GPT Related
 
 - [Auto-GPT Official Repo](https://github.com/Significant-Gravitas/Auto-GPT)
 - [Auto-GPT God Mode](https://godmode.space/)
-- [OpenAIMaster's Guide to Auto-GPT](https://openaimaster.com/how-does-autogpt-work-an-ai-tool-to-create-full-projects/): How does Auto-GPT work, an AI tool to create full projects
-- [AgentGPT](https://agentgpt.reworkd.ai): in-browser implementation of Auto-GPT
+- [OpenAIMaster's Guide to Auto-GPT](https://openaimaster.com/how-does-autogpt-work-an-ai-tool-to-create-full-projects/): How does Auto-GPT work, an AI tool to create full projects.
+- [AgentGPT](https://agentgpt.reworkd.ai): in-browser implementation of Auto-GPT.
 
 ## Prompt Injection
 
@@ -128,19 +127,19 @@ with Large Language Models
 ## Playgrounds and Alternative UIs
 
 - [Official OpenAI Playground](https://platform.openai.com/playground)
-- [Nat.Dev](https://nat.dev): Multiple Chat AI Playground & Comparer
+- [Nat.Dev](https://nat.dev): Multiple Chat AI Playground & Comparer.
 - [Poe.com](https://poe.com): All in one playground: GPT4, Sage, Claude+, Dragonfly, and more...
 - [Ora.sh GPT-4 Chatbots](https://ora.sh/gpt-4)
-- [Better ChatGPT](https://bettergpt.chat): A web app with a better UI for exploring OpenAI's ChatGPT API
-- [LMQL.AI](https://lmql.ai/playground/#calc): A programming language and platform for language models
+- [Better ChatGPT](https://bettergpt.chat): A web app with a better UI for exploring OpenAI's ChatGPT API.
+- [LMQL.AI](https://lmql.ai/playground/#calc): A programming language and platform for language models.
 - [Vercel Ai Playground](https://play.vercel.ai): One prompt, multiple Models (including GPT-4)
 
 ## ChatGPT Plug-ins
 
-- [ChatGPT plugins](https://openai.com/blog/chatgpt-plugins): OpenAI Official Page
-- [Plug-in example code in Python](https://github.com/ruvnet/chatgpt_plugin_python): Example code for creating a ChatGPT plug-in in Python
+- [ChatGPT plugins](https://openai.com/blog/chatgpt-plugins): OpenAI Official Page.
+- [Plug-in example code in Python](https://github.com/ruvnet/chatgpt_plugin_python): Example code for creating a ChatGPT plug-in in Python.
 - [Surfer Plug-in source code](https://github.com/ruvnet/Surfer)
-- [Security](https://www.security.dev/): (PAID) Create, deploy, monitor and secure LLM Plugins
+- [Security](https://www.security.dev/): (PAID) Create, deploy, monitor and secure LLM Plugins.
 
 ## Prompt Engineering Jobs Offers
 
@@ -148,7 +147,7 @@ with Large Language Models
 
 ## AI Links Directories
 
-- [FuturePedia](https://www.futurepedia.io/ai-tools): The Largest AI Tools Directory Updated Daily
+- [FuturePedia](https://www.futurepedia.io/ai-tools): The Largest AI Tools Directory Updated Daily.
 - [Theresanaiforthat](https://theresanaiforthat.com/s/gpt/): The biggest AI aggregator.
 - [Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)
 - [AiTreasureBox](https://github.com/superiorlu/AiTreasureBox)
