@@ -32,13 +32,13 @@ Consider giving it a ⭐️ if you like it to show your support!
 - [Learn Prompting](https://learnprompting.org/docs/category/-basics): Introduction to Prompt Engineering and Prompt Engineering techniques
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide):  Guides, papers, lecture, notebooks and resources for prompt engineering.
 - [How to generate text: using different decoding methods for language generation with Transformers](https://huggingface.co/blog/how-to-generate): A guide to decoding methods for language generation with Transformers.
-- [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) - A visual guide to transformers, the core model used in GPT.
+- [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/): A visual guide to transformers, the core model used in GPT.
 - [Reddit's r/aipromptprogramming Tutorials Collection](https://www.reddit.com/r/aipromptprogramming/collection/d3a393ad-ef15-4f2a-a23e-18a5c90ff48d): A collection of tutorials for prompt engineering.
 
 ## Courses
 
-- [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) - Coursera specialization by Andrew Ng, which includes a course on Sequence Models.
-- [Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing) - Coursera specialization focusing on NLP.
+- [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning): Coursera specialization by Andrew Ng, which includes a course on Sequence Models.
+- [Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing): Coursera specialization focusing on NLP.
 - [Learn Prompting - A Free, Open Source Course on Communicating with AI](https://learnprompting.org/)
 - [PromptingGuide.AI](https://www.promptingguide.ai/)
 
@@ -80,8 +80,8 @@ with Large Language Models
 
 ## Books
 
-- [You Look Like a Thing and I Love You](https://janelleshane.com/book-you-look-like-a-thing-and-i-love-you) - A book about AI with a focus on language models.
-- [The ChatGPT Prompt Book](https://lifearchitect.ai/chatgpt-prompt-book/) - A book dedicated to ChatGPT prompts.
+- [The ChatGPT Prompt Book](https://lifearchitect.ai/chatgpt-prompt-book/): A book dedicated to ChatGPT prompts.
+- [You Look Like a Thing and I Love You](https://janelleshane.com/book-you-look-like-a-thing-and-i-love-you): A book about AI with a focus on language models.
 
 ## Communities
 
