@@ -73,11 +73,10 @@ with Large Language Models
 
 ## Papers
 
-- [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) - Paper introducing GPT-3 by OpenAI.
-- [Fine-Tuning Language Models from Human Preferences](https://arxiv.org/abs/1909.08593) - Another important paper from OpenAI on fine-tuning language models.
-- [Prompting Transformers with Text for Structured Data Queries](https://arxiv.org/abs/2104.08691): This paper discusses the use of "prompt tuning" for learning "soft prompts" to condition frozen language models to perform specific downstream tasks. The approach outperforms GPT-3's "few-shot" learning by a large margin and becomes more competitive with scale.
-- [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/abs/2104.08691): This work explores "prompt tuning", a mechanism for learning "soft prompts" to condition frozen language models to perform specific downstream tasks. The method matches the strong performance of model tuning and confers benefits in robustness to domain transfer.
-- [Deep Attentive Learning for Stock Movement Prediction From Social Media Text and Company Correlations](https://aclanthology.org/2020.emnlp-main.676): This paper introduces an architecture that blends chaotic temporal signals from financial data, social media, and inter-stock relationships via a graph neural network in a hierarchical temporal fashion for accurate stock forecasting.
+- [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165): GPT-3 introduction paper by OpenAI.
+- [Fine-Tuning Language Models from Human Preferences](https://arxiv.org/abs/1909.08593): Important paper on fine-tuning language models by OpenAI.
+- [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/abs/2104.08691): Explores the benefits of "prompt tuning" for robust task performance.
+- [Deep Attentive Learning for Stock Movement Prediction From Social Media Text and Company Correlations](https://aclanthology.org/2020.emnlp-main.676): Introduces an architecture for accurate stock forecasting using financial data and social media signals.
 
 ## Books
 
