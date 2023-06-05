@@ -162,6 +162,7 @@ Contributions are always welcome! Please read the [contribution guidelines](cont
 
 How to help:
 
+- Give a ⭐️ to increase the repository's visibility.
 - Add descriptions for resources that don't have them.
 - Add new resources to the list.
 - Fix typos or grammatical errors.g
