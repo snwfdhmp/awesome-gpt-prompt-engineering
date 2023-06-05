@@ -62,14 +62,14 @@ with Large Language Models
 - [ShowGPT.co](https://showgpt.co/templates)
 - [Best Data Science ChatGPT Prompts](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts)
 - [ChatGPT prompts uploaded by the FlowGPT community](https://flowgpt.com)
-- [Ignacio Velásquez 500+ ChatGPT Prompt Templates](https://ignacio-velasquez.notion.site/ignacio-velasquez/500-ChatGPT-Prompt-Templates-d9541e901b2b4e8f800e819bdc0256da)
-- [PromptPal](https://www.promptpal.net/)
-- [Hero GPT - AI Prompt Library](https://hero.page/ai-prompts)
+- [Ignacio Velásquez Prompt Templates](https://ignacio-velasquez.notion.site/ignacio-velasquez/500-ChatGPT-Prompt-Templates-d9541e901b2b4e8f800e819bdc0256da): 500+ ChatGPT Prompt Templates
+- [PromptPal](https://www.promptpal.net/): A collection of prompts for GPT-3 and other language models.
+- [Hero GPT](https://hero.page/ai-prompts): AI Prompt Library
 - [Reddit's ChatGPT Prompts](https://www.reddit.com/r/ChatGPT_Prompts/)
-- [Snack Prompt](https://snackprompt.com)
-- [ShareGPT - Share your prompts and your entire conversations](https://sharegpt.com)
-- [Prompt Search - a search engine for AI Prompts](https://www.ptsearch.info/tags/list/)
-- [PromptBase - The largest prompts marketplace on the web](https://promptbase.com/)
+- [Snack Prompt](https://snackprompt.com): GPT prompts collection, has a a Chrome extension
+- [ShareGPT](https://sharegpt.com): Share your prompts and your entire conversations
+- [Prompt Search](https://www.ptsearch.info/tags/list/): a search engine for AI Prompts
+- [PromptBase](https://promptbase.com/): The largest prompts marketplace on the web
 
 ## Papers
 
@@ -129,19 +129,19 @@ with Large Language Models
 ## Playgrounds and Alternative UIs
 
 - [Official OpenAI Playground](https://platform.openai.com/playground)
-- [Nat.Dev - Multiple Chat AI Playground & Comparer](https://nat.dev)
-- [Poe.com - All in one playground: GPT4, Sage, Claude+, Dragonfly, and more...](https://poe.com)
+- [Nat.Dev](https://nat.dev): Multiple Chat AI Playground & Comparer
+- [Poe.com](https://poe.com): All in one playground: GPT4, Sage, Claude+, Dragonfly, and more...
 - [Ora.sh GPT-4 Chatbots](https://ora.sh/gpt-4)
-- [Better ChatGPT - A web app with a better UI for exploring OpenAI's ChatGPT API ](https://bettergpt.chat)
-- [LMQL.AI - A programming language and platform for language models](https://lmql.ai/playground/#calc)
-- [Vercel Ai Playground - One prompt, multiple Models (including GPT-4)](https://play.vercel.ai)
+- [Better ChatGPT](https://bettergpt.chat): A web app with a better UI for exploring OpenAI's ChatGPT API
+- [LMQL.AI](https://lmql.ai/playground/#calc): A programming language and platform for language models
+- [Vercel Ai Playground](https://play.vercel.ai): One prompt, multiple Models (including GPT-4)
 
 ## ChatGPT Plug-ins
 
-- [Plug-ins - OpenAI Official Page](https://openai.com/blog/chatgpt-plugins)
-- [Plug-in example code in Python](https://github.com/ruvnet/chatgpt_plugin_python)
+- [ChatGPT plugins](https://openai.com/blog/chatgpt-plugins): OpenAI Official Page
+- [Plug-in example code in Python](https://github.com/ruvnet/chatgpt_plugin_python): Example code for creating a ChatGPT plug-in in Python
 - [Surfer Plug-in source code](https://github.com/ruvnet/Surfer)
-- [Security - Create, deploy, monitor and secure LLM Plugins](https://www.security.dev/) (PAID)
+- [Security](https://www.security.dev/): (PAID) Create, deploy, monitor and secure LLM Plugins
 
 ## Prompt Engineering Jobs Offers
 
@@ -149,8 +149,8 @@ with Large Language Models
 
 ## AI Links Directories
 
-- [FuturePedia - The Largest AI Tools Directory Updated Daily](https://www.futurepedia.io/ai-tools)
-- [Theresanaiforthat - The biggest AI aggregator. Used by over 800,000 humans.](https://theresanaiforthat.com/s/gpt/)
+- [FuturePedia](https://www.futurepedia.io/ai-tools): The Largest AI Tools Directory Updated Daily
+- [Theresanaiforthat](https://theresanaiforthat.com/s/gpt/): The biggest AI aggregator.
 - [Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)
 - [AiTreasureBox](https://github.com/superiorlu/AiTreasureBox)
 - [EwingYangs Awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt)
