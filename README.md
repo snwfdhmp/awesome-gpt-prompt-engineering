@@ -14,7 +14,7 @@ Consider giving it a ⭐️ if you like it to show your support!
 	- [Courses](#courses)
 	- [Techniques](#techniques)
 	- [Prompt Collections](#prompt-collections)
-	- [Papers.](#papers)
+	- [Papers](#papers)
 	- [Books](#books)
 	- [Communities](#communities)
 	- [Prompt Chaining](#prompt-chaining)
@@ -71,7 +71,8 @@ with Large Language Models.
 - [Prompt Search](https://www.ptsearch.info/tags/list/): a search engine for AI Prompts.
 - [PromptBase](https://promptbase.com/): The largest prompts marketplace on the web.
 
-## Papers.
+## Papers
+
 - [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165): GPT-3 introduction paper by OpenAI.
 - [Fine-Tuning Language Models from Human Preferences](https://arxiv.org/abs/1909.08593): Important paper on fine-tuning language models by OpenAI.
 - [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/abs/2104.08691): Explores the benefits of "prompt tuning" for robust task performance.
