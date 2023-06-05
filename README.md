@@ -103,16 +103,15 @@ with Large Language Models.
 
 ## Prompt Generators
 
-- [BossGPT](https://www.gptboss.com)
-- [Promptify](https://promptify.pro): Automatically Improve your Prompt.
+- [Promptify](https://promptify.pro): Automatically improve your prompt.
 - [Fusion](https://fusion.tiiny.site/home.html): Elevate your output with Fusion's smart prompts.
-- [Bumble-Prompts](https://bumble-prompts.vercel.app/)
-- [ChatGPT Prompt Generator](https://huggingface.co/spaces/merve/ChatGPT-prompt-generator)
-- [Prompts Templates Builder](https://prompts.ai)
-- [PromptPerfect](https://promptperfect.jina.ai/)
+- [Bumble-Prompts](https://bumble-prompts.vercel.app/): Let AI Write your bumble prompt.
+- [ChatGPT Prompt Generator](https://huggingface.co/spaces/merve/ChatGPT-prompt-generator): Generates ChatGPT prompts based on a BART model.
+- [PromptPerfect](https://promptperfect.jina.ai/): Prompt optimizer.
 - [Hero GPT](https://hero.page/ai-prompts): AI Prompt Generator.
-- [LMQL](https://github.com/eth-sri/lmql): A query language for programming large language models.
+- [LMQL](https://github.com/eth-sri/lmql): Query language for programming large language models.
 - [OpenPromptStudio](https://moonvy.com/apps/ops/)
+- [BossGPT](https://www.gptboss.com)
 
 ## Auto-GPT Related
 
