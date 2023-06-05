@@ -34,6 +34,11 @@ Consider giving it a ⭐️ if you like it to show your support!
 - [How to generate text: using different decoding methods for language generation with Transformers](https://huggingface.co/blog/how-to-generate): A guide to decoding methods for language generation with Transformers.
 - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/): A visual guide to transformers, the core model used in GPT.
 - [Reddit's r/aipromptprogramming Tutorials Collection](https://www.reddit.com/r/aipromptprogramming/collection/d3a393ad-ef15-4f2a-a23e-18a5c90ff48d): A collection of tutorials for prompt engineering.
+- [Prompt Engineering Guide](https://www.promptingguide.ai/): A comprehensive guide that contains all the latest papers, learning resources, and developments in the field of prompt engineering.
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): A GitHub repository that provides a prompt engineering guide with the latest papers and learning guides.
+- [How to Communicate with ChatGPT – A Guide to Prompt Engineering](https://www.freecodecamp.org/news/how-to-communicate-with-chatgpt-a-guide-to-prompt-engineering/): A guide that explains what prompt engineering is and how you can use it to improve your communication with AI tools.
+- [A Beginner's Guide to ChatGPT Prompt Engineering](https://www.datacamp.com/tutorial/a-beginners-guide-to-chatgpt-prompt-engineering): A beginner-friendly guide that delves into the art and science of Prompt Engineering.
+- [Best practices for prompt engineering with OpenAI API](https://help.openai.com/articles/6654000-best-practices-for-prompt-engineering-with-openai-api): A guide by OpenAI that provides best practices for prompt engineering.
 
 ## Courses
 
