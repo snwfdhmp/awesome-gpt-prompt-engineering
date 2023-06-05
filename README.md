@@ -15,7 +15,6 @@ Consider giving it a ⭐️ if you like it to show your support!
 	- [Prompt Lists](#prompt-lists)
 	- [Papers](#papers)
 	- [Books](#books)
-	- [Courses](#courses)
 	- [Tutorials](#tutorials)
 	- [Blogs](#blogs)
 	- [Tools](#tools)
@@ -37,7 +36,6 @@ Consider giving it a ⭐️ if you like it to show your support!
 - [FlowGPT](https://flowgpt.com/): FlowGPT is the largest open source prompt community
 - [awesomegptprompts.com](https://www.awesomegptprompts.com/): Explore hundreds of the best ChatGPT Prompts
 - [fka/awesome-chatgpt-prompts](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts): Dataset of awesome chatgpt prompts
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts):  This repo includes ChatGPT prompt curation to use ChatGPT better. 
 
 ## Papers
 
@@ -47,11 +45,6 @@ Consider giving it a ⭐️ if you like it to show your support!
 ## Books
 
 - [You Look Like a Thing and I Love You](https://janelleshane.com/book-you-look-like-a-thing-and-i-love-you) - A book about AI with a focus on language models.
-
-## Courses
-
-- [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) - Coursera specialization by Andrew Ng, which includes a course on Sequence Models.
-- [Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing) - Coursera specialization focusing on NLP.
 
 ## Tutorials
 
