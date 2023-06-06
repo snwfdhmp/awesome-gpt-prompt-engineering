@@ -1,6 +1,4 @@
-# Awesome GPT Prompt Engineering
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome GPT Prompt Engineering <div> <a href="https://awesome.re"> <img src="https://awesome.re/badge-flat2.svg" alt="Awesome"> </a> <a href="https://discord.gg/XhyEWG3PTr"> <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" style="height: 20px;"> </a> </div>
 
 A curated list of awesome resources, tools, and other shiny things for GPT prompt engineering.
 
@@ -8,7 +6,7 @@ Consider giving it a ⭐️ if you like it to show your support!
 
 ## Contents
 
-- [Awesome GPT Prompt Engineering](#awesome-gpt-prompt-engineering)
+- [Awesome GPT Prompt Engineering        ](#awesome-gpt-prompt-engineering--------)
 	- [Contents](#contents)
 	- [Guides](#guides)
 	- [Techniques](#techniques)
@@ -131,6 +129,7 @@ with Large Language Models.
 - [Reddit's ChatGPT Discord Server](https://discord.gg/NuefU36EC2): r/chatgpt Discord server.
 - [PromptsLab Discord](https://discord.gg/m88xfYMbK6): Knowledge sharing community for Generative Models, Prompt Engineering, LLMs.
 - [Learn Prompting](https://discord.gg/7enStJXQzD): A Discord server dedicated to learning about prompts.
+- [Artificial Intelligence Discord](https://discord.gg/XhyEWG3PTr): Discord server for AI enthusiasts and prompt engineers.
 
 ## Prompt Chaining
 
