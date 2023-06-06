@@ -80,6 +80,24 @@ with Large Language Models.
 - [Fine-Tuning Language Models from Human Preferences](https://arxiv.org/abs/1909.08593): Important paper on fine-tuning language models by OpenAI.
 - [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/abs/2104.08691): Explores the benefits of "prompt tuning" for robust task performance.
 - [Deep Attentive Learning for Stock Movement Prediction From Social Media Text and Company Correlations](https://aclanthology.org/2020.emnlp-main.676): Introduces an architecture for accurate stock forecasting using financial data and social media signals.
+- [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/abs/2302.11382)
+- [Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery](https://arxiv.org/abs/2302.03668)
+- [Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models](https://arxiv.org/abs/2302.00618)
+- [Progressive Prompts: Continual Learning for Language Models](https://arxiv.org/abs/2301.12314)
+- [Batch Prompting: Efficient Inference with LLM APIs](https://arxiv.org/abs/2301.08721)
+- [Successive Prompting for Decompleting Complex Questions](https://arxiv.org/abs/2212.04092)
+- [Structured Prompting: Scaling In-Context Learning to 1,000 Examples](https://arxiv.org/abs/2212.06713)
+- [Large Language Models Are Human-Level Prompt Engineers](https://arxiv.org/abs/2211.01910)
+- [Ask Me Anything: A simple strategy for prompting language models](https://paperswithcode.com/paper/ask-me-anything-a-simple-strategy-for)
+- [Prompting GPT-3 To Be Reliable](https://arxiv.org/abs/2210.09150)
+- [Decomposed Prompting: A Modular Approach for Solving Complex Tasks](https://arxiv.org/abs/2210.02406)
+- [PromptChainer: Chaining Large Language Model Prompts through Visual Programming](https://arxiv.org/abs/2203.06566)
+- [Investigating Prompt Engineering in Diffusion Models](https://arxiv.org/abs/2211.15462)
+- [Show Your Work: Scratchpads for Intermediate Computation with Language Models](https://arxiv.org/abs/2112.00114)
+- [Reframing Instructional Prompts to GPTk's Language](https://arxiv.org/abs/2109.07830)
+- [Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity](https://arxiv.org/abs/2104.08786)
+- [Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm](https://arxiv.org/abs/2102.07350)
+- [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/abs/2101.00190)
 
 ## Books
 
