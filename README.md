@@ -30,6 +30,9 @@ Consider giving it a ⭐️ if you like it to show your support!
 
 - [Learn Prompting](https://learnprompting.org/docs/category/-basics): Introduction to Prompt Engineering and Prompt Engineering techniques.
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide):  Guides, papers, lecture, notebooks and resources for prompt engineering.
+- [Prompt Engineering 101](https://www.linkedin.com/pulse/prompt-engineering-101-introduction-resources-amatriain): Prompt Engineering guide by Xavi
+- [Prompt Engineering 101](https://humanloop.com/blog/prompt-engineering-101): Prompt Engineering guide by Raza Habib & Sinan Ozdemir
+- [Prompt Engineering Guide](https://github.com/SudalaiRajkumar/Talks_Webinars/blob/master/Slides/PromptEngineering_20230208.pdf): Prompt Engineering guide by Sudalai Rajkumar
 - [How to generate text: using different decoding methods for language generation with Transformers](https://huggingface.co/blog/how-to-generate): A guide to decoding methods for language generation with Transformers.
 - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/): A visual guide to transformers, the core model used in GPT.
 - [Reddit's r/aipromptprogramming Tutorials Collection](https://www.reddit.com/r/aipromptprogramming/collection/d3a393ad-ef15-4f2a-a23e-18a5c90ff48d): A collection of tutorials for prompt engineering.
@@ -37,11 +40,14 @@ Consider giving it a ⭐️ if you like it to show your support!
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): A GitHub repository that provides a prompt engineering guide with the latest papers and learning guides.
 - [How to Communicate with ChatGPT – A Guide to Prompt Engineering](https://www.freecodecamp.org/news/how-to-communicate-with-chatgpt-a-guide-to-prompt-engineering/): A guide that explains what prompt engineering is and how you can use it to improve your communication with AI tools.
 - [A Beginner's Guide to ChatGPT Prompt Engineering](https://www.datacamp.com/tutorial/a-beginners-guide-to-chatgpt-prompt-engineering): A beginner-friendly guide that delves into the art and science of Prompt Engineering.
+- [A Complete Introduction to Prompt Engineering for Large Language Models](https://www.mihaileric.com/posts/a-complete-introduction-to-prompt-engineering)
+- [Prompt Engineering Guide: How to Engineer the Perfect Prompts](https://richardbatt.co.uk/prompt-engineering-guide-how-to-engineer-the-perfect-prompts)
 - [Best practices for prompt engineering with OpenAI API](https://help.openai.com/articles/6654000-best-practices-for-prompt-engineering-with-openai-api): A guide by OpenAI that provides best practices for prompt engineering.
 - [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/): A short course on prompt engineering by deeplearning.ai.
 - [Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing): Coursera specialization focusing on NLP.
 - [Learn Prompting](https://learnprompting.org/): A Free, Open Source Course on Communicating with AI
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning): Coursera specialization by Andrew Ng, which includes a course on Sequence Models.
+- [OpenAI Cookbook](https://github.com/openai/openai-cookbook): OpenAI's cookbook includes examples of prompt engineering.
 
 ## Techniques
 
@@ -113,6 +119,8 @@ with Large Language Models.
 - [Hugging Face Forum](https://discuss.huggingface.co/): A forum for discussing Hugging Face's transformer models, including GPT.
 - [ChatGPT Community Discord Server](https://discord.gg/cgpt): A Discord server dedicated to ChatGPT.
 - [Reddit's ChatGPT Discord Server](https://discord.gg/NuefU36EC2): r/chatgpt Discord server.
+- [PromptsLab Discord](https://discord.gg/m88xfYMbK6): Knowledge sharing community for Generative Models, Prompt Engineering, LLMs.
+- [Learn Prompting](https://discord.gg/7enStJXQzD): A Discord server dedicated to learning about prompts.
 
 ## Prompt Chaining
 
