@@ -29,10 +29,10 @@ Consider giving it a ⭐️ if you like it to show your support!
 ## Guides
 
 - [Learn Prompting](https://learnprompting.org/docs/category/-basics): Introduction to Prompt Engineering and Prompt Engineering techniques.
-- [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide):  Guides, papers, lecture, notebooks and resources for prompt engineering.
-- [Prompt Engineering 101](https://www.linkedin.com/pulse/prompt-engineering-101-introduction-resources-amatriain): Prompt Engineering guide by Xavi
-- [Prompt Engineering 101](https://humanloop.com/blog/prompt-engineering-101): Prompt Engineering guide by Raza Habib & Sinan Ozdemir
-- [Prompt Engineering Guide](https://github.com/SudalaiRajkumar/Talks_Webinars/blob/master/Slides/PromptEngineering_20230208.pdf): Prompt Engineering guide by Sudalai Rajkumar
+- [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): Guides, papers, lecture, notebooks and resources for prompt engineering.
+- [Prompt Engineering 101](https://www.linkedin.com/pulse/prompt-engineering-101-introduction-resources-amatriain): Prompt Engineering guide by Xavi.
+- [Prompt Engineering 101](https://humanloop.com/blog/prompt-engineering-101): Prompt Engineering guide by Raza Habib & Sinan Ozdemir.
+- [Prompt Engineering Guide](https://github.com/SudalaiRajkumar/Talks_Webinars/blob/master/Slides/PromptEngineering_20230208.pdf): Prompt Engineering guide by Sudalai Rajkumar.
 - [How to generate text: using different decoding methods for language generation with Transformers](https://huggingface.co/blog/how-to-generate): A guide to decoding methods for language generation with Transformers.
 - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/): A visual guide to transformers, the core model used in GPT.
 - [Reddit's r/aipromptprogramming Tutorials Collection](https://www.reddit.com/r/aipromptprogramming/collection/d3a393ad-ef15-4f2a-a23e-18a5c90ff48d): A collection of tutorials for prompt engineering.
@@ -45,7 +45,7 @@ Consider giving it a ⭐️ if you like it to show your support!
 - [Best practices for prompt engineering with OpenAI API](https://help.openai.com/articles/6654000-best-practices-for-prompt-engineering-with-openai-api): A guide by OpenAI that provides best practices for prompt engineering.
 - [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/): A short course on prompt engineering by deeplearning.ai.
 - [Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing): Coursera specialization focusing on NLP.
-- [Learn Prompting](https://learnprompting.org/): A Free, Open Source Course on Communicating with AI
+- [Learn Prompting](https://learnprompting.org/): A Free, Open Source Course on Communicating with AI.
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning): Coursera specialization by Andrew Ng, which includes a course on Sequence Models.
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook): OpenAI's cookbook includes examples of prompt engineering.
 
@@ -57,7 +57,7 @@ Consider giving it a ⭐️ if you like it to show your support!
 - [Zero Shot Chain of Thought](https://learnprompting.org/docs/intermediate/zero_shot_cot): Enable Chain of Thought with only a few words.
 - [Tree of Thoughts](https://arxiv.org/pdf/2305.10601.pdf): Tree of Thoughts: Deliberate Problem Solving.
 with Large Language Models.
-- [Mastering ChatGPT Prompts](https://www.reddit.com/r/aipromptprogramming/collection/d3a393ad-ef15-4f2a-a23e-18a5c90ff48d/) Mastering ChatGPT Prompts: Harnessing Zero, One, and Few-Shot Learning, Fine-Tuning, and Embeddings for Enhanced GPT Performance
+- [Mastering ChatGPT Prompts](https://www.reddit.com/r/aipromptprogramming/collection/d3a393ad-ef15-4f2a-a23e-18a5c90ff48d/): Mastering ChatGPT Prompts: Harnessing Zero, One, and Few-Shot Learning, Fine-Tuning, and Embeddings for Enhanced GPT Performance.
 - [Prompting GPT-3 To Be Reliable](https://arxiv.org/abs/2210.09150): Prompting GPT-3 To Be Reliable.
 - [Decomposed Prompting](https://arxiv.org/abs/2210.02406): A Modular Approach for Solving Complex Tasks.
 - [AutoPrompt](https://arxiv.org/abs/2010.15980): Eliciting Knowledge from Language Models with Automatically Generated Prompts.
@@ -67,7 +67,7 @@ with Large Language Models.
 - [FlowGPT](https://flowgpt.com/): FlowGPT is the largest open source prompt community.
 - [awesomegptprompts.com](https://www.awesomegptprompts.com/): Explore hundreds of the best ChatGPT Prompts.
 - [fka/awesome-chatgpt-prompts](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts): Dataset of awesome chatgpt prompts.
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts):  This repo includes ChatGPT prompt curation to use ChatGPT better. .
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): This repo includes ChatGPT prompt curation to use ChatGPT better. .
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
 - [PromptHub](https://prompthub.space/)
 - [ShowGPT.co](https://showgpt.co/templates)
@@ -172,7 +172,7 @@ with Large Language Models.
 - [Ora.sh GPT-4 Chatbots](https://ora.sh/gpt-4)
 - [Better ChatGPT](https://bettergpt.chat): A web app with a better UI for exploring OpenAI's ChatGPT API.
 - [LMQL.AI](https://lmql.ai/playground/#calc): A programming language and platform for language models.
-- [Vercel Ai Playground](https://play.vercel.ai): One prompt, multiple Models (including GPT-4)
+- [Vercel Ai Playground](https://play.vercel.ai): One prompt, multiple Models (including GPT-4).
 
 ## ChatGPT Plug-ins
 
@@ -205,5 +205,5 @@ How to help:
 - Give a ⭐️ to increase the repository's visibility.
 - Add descriptions for resources that don't have them.
 - Add new resources to the list.
-- Fix typos or grammatical errors.g
+- Fix typos or grammatical errors.
 - Share this repository with others.
