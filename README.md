@@ -91,22 +91,22 @@ with Large Language Models.
 - [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/abs/2104.08691): Explores the benefits of "prompt tuning" for robust task performance.
 - [Deep Attentive Learning for Stock Movement Prediction From Social Media Text and Company Correlations](https://aclanthology.org/2020.emnlp-main.676): Introduces an architecture for accurate stock forecasting using financial data and social media signals.
 - [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/abs/2302.11382)
-- [Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery](https://arxiv.org/abs/2302.03668)
-- [Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models](https://arxiv.org/abs/2302.00618)
-- [Progressive Prompts: Continual Learning for Language Models](https://arxiv.org/abs/2301.12314)
-- [Batch Prompting: Efficient Inference with LLM APIs](https://arxiv.org/abs/2301.08721)
+- [Hard Prompts Made Easy](https://arxiv.org/abs/2302.03668): Gradient-Based Discrete Optimization for Prompt Tuning and Discovery.
+- [Synthetic Prompting](https://arxiv.org/abs/2302.00618): Generating Chain-of-Thought Demonstrations for Large Language Models.
+- [Progressive Prompts](https://arxiv.org/abs/2301.12314): Continual Learning for Language Models.
+- [Batch Prompting](https://arxiv.org/abs/2301.08721): Efficient Inference with LLM APIs.
 - [Successive Prompting for Decompleting Complex Questions](https://arxiv.org/abs/2212.04092)
-- [Structured Prompting: Scaling In-Context Learning to 1,000 Examples](https://arxiv.org/abs/2212.06713)
+- [Structured Prompting](https://arxiv.org/abs/2212.06713): Scaling In-Context Learning to 1,000 Examples.
 - [Large Language Models Are Human-Level Prompt Engineers](https://arxiv.org/abs/2211.01910)
-- [Ask Me Anything: A simple strategy for prompting language models](https://paperswithcode.com/paper/ask-me-anything-a-simple-strategy-for)
-- [PromptChainer: Chaining Large Language Model Prompts through Visual Programming](https://arxiv.org/abs/2203.06566)
+- [Ask Me Anything](https://paperswithcode.com/paper/ask-me-anything-a-simple-strategy-for): A simple strategy for prompting language models.
+- [PromptChainer](https://arxiv.org/abs/2203.06566): Chaining Large Language Model Prompts through Visual Programming.
 - [Reframing Instructional Prompts to GPTk's Language](https://arxiv.org/abs/2109.07830)
-- [Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm](https://arxiv.org/abs/2102.07350)
+- [Prompt Programming for Large Language Models](https://arxiv.org/abs/2102.07350): Beyond the Few-Shot Paradigm.
 - [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/abs/2101.00190)
 - [Multimodal Chain-of-Thought Reasoning in Language Models](https://arxiv.org/abs/2302.00923)
-- [On Second Thought, Let's Not Think Step by Step! Bias and Toxicity in Zero-Shot Reasoning](https://arxiv.org/abs/2212.08061)
+- [On Second Thought, Let's Not Think Step by Step!](https://arxiv.org/abs/2212.08061): Bias and Toxicity in Zero-Shot Reasoning.
 - [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629)
-- [Language Models Are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-Thought](https://arxiv.org/abs/2210.01240v3)
+- [Language Models Are Greedy Reasoners](https://arxiv.org/abs/2210.01240v3): A Systematic Formal Analysis of Chain-of-Thought.
 - [On the Advance of Making Language Models Better Reasoners](https://arxiv.org/abs/2206.02336)
 - [Large Language Models are Zero-Shot Reasoners](https://arxiv.org/abs/2205.11916)
 - [Reasoning Like Program Executors](https://arxiv.org/abs/2201.11473)
