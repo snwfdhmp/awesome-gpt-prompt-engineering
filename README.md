@@ -73,6 +73,7 @@ with Large Language Models.
 - [ShareGPT](https://sharegpt.com): Share your prompts and your entire conversations.
 - [Prompt Search](https://www.ptsearch.info/tags/list/): a search engine for AI Prompts.
 - [PromptBase](https://promptbase.com/): The largest prompts marketplace on the web.
+- [The Ultimate 5 ChatGPT Prompts](https://ngmi.gumroad.com/l/nobsprompts): Simplify Your AI Experience.
 
 ## Papers
 
