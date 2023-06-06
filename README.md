@@ -58,8 +58,9 @@ Consider giving it a ⭐️ if you like it to show your support!
 - [Tree of Thoughts](https://arxiv.org/pdf/2305.10601.pdf): Tree of Thoughts: Deliberate Problem Solving.
 with Large Language Models.
 - [Mastering ChatGPT Prompts](https://www.reddit.com/r/aipromptprogramming/collection/d3a393ad-ef15-4f2a-a23e-18a5c90ff48d/) Mastering ChatGPT Prompts: Harnessing Zero, One, and Few-Shot Learning, Fine-Tuning, and Embeddings for Enhanced GPT Performance
-
-
+- [Prompting GPT-3 To Be Reliable](https://arxiv.org/abs/2210.09150)
+- [Decomposed Prompting: A Modular Approach for Solving Complex Tasks](https://arxiv.org/abs/2210.02406)
+- [AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts](https://arxiv.org/abs/2010.15980)
 ## Prompt Collections
 
 - [FlowGPT](https://flowgpt.com/): FlowGPT is the largest open source prompt community.
@@ -83,6 +84,7 @@ with Large Language Models.
 
 ## Papers
 
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762): Transformer introduction paper.
 - [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165): GPT-3 introduction paper by OpenAI.
 - [Fine-Tuning Language Models from Human Preferences](https://arxiv.org/abs/1909.08593): Important paper on fine-tuning language models by OpenAI.
 - [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/abs/2104.08691): Explores the benefits of "prompt tuning" for robust task performance.
@@ -96,11 +98,7 @@ with Large Language Models.
 - [Structured Prompting: Scaling In-Context Learning to 1,000 Examples](https://arxiv.org/abs/2212.06713)
 - [Large Language Models Are Human-Level Prompt Engineers](https://arxiv.org/abs/2211.01910)
 - [Ask Me Anything: A simple strategy for prompting language models](https://paperswithcode.com/paper/ask-me-anything-a-simple-strategy-for)
-- [Prompting GPT-3 To Be Reliable](https://arxiv.org/abs/2210.09150)
-- [Decomposed Prompting: A Modular Approach for Solving Complex Tasks](https://arxiv.org/abs/2210.02406)
 - [PromptChainer: Chaining Large Language Model Prompts through Visual Programming](https://arxiv.org/abs/2203.06566)
-- [Investigating Prompt Engineering in Diffusion Models](https://arxiv.org/abs/2211.15462)
-- [Show Your Work: Scratchpads for Intermediate Computation with Language Models](https://arxiv.org/abs/2112.00114)
 - [Reframing Instructional Prompts to GPTk's Language](https://arxiv.org/abs/2109.07830)
 - [Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm](https://arxiv.org/abs/2102.07350)
 - [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/abs/2101.00190)
@@ -115,7 +113,6 @@ with Large Language Models.
 - [Chain of Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
 - [Generated Knowledge Prompting for Commonsense Reasoning](https://arxiv.org/abs/2110.08387)
 - [Large Language Models Can Be Easily Distracted by Irrelevant Context](https://arxiv.org/abs/2302.00093)
-- [AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts](https://arxiv.org/abs/2010.15980)
 - [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073)
 
 ## Books
