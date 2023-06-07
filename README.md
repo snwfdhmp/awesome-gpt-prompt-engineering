@@ -14,7 +14,6 @@ Consider giving it a ⭐️ if you like it to show your support!
 	- [Papers](#papers)
 	- [Books](#books)
 	- [Communities](#communities)
-	- [Prompt Chaining](#prompt-chaining)
 	- [Prompt Generators](#prompt-generators)
 	- [Auto-GPT Related](#auto-gpt-related)
 	- [Prompt Injection](#prompt-injection)
@@ -63,7 +62,10 @@ with Large Language Models.
 - [Prompting GPT-3 To Be Reliable](https://arxiv.org/abs/2210.09150): Prompting GPT-3 To Be Reliable.
 - [Decomposed Prompting](https://arxiv.org/abs/2210.02406): A Modular Approach for Solving Complex Tasks.
 - [AutoPrompt](https://arxiv.org/abs/2010.15980): Eliciting Knowledge from Language Models with Automatically Generated Prompts.
-
+- [LangChain Github Repository](https://github.com/hwchase17/langchain): Building applications with LLMs through composability.
+- [Conju.ai](https://app.conju.ai/): A visual prompt chaining app.
+- [Voiceflow](https://www.voiceflow.com): Professional collaborative visual prompt-chaining tool.
+  
 ## Prompt Collections
 
 - [FlowGPT](https://flowgpt.com/): FlowGPT is the largest open source prompt community.
@@ -134,12 +136,6 @@ with Large Language Models.
 - [PromptsLab Discord](https://discord.gg/m88xfYMbK6): Knowledge sharing community for Generative Models, Prompt Engineering, LLMs.
 - [Learn Prompting](https://discord.gg/7enStJXQzD): A Discord server dedicated to learning about prompts.
 - [Artificial Intelligence Discord](https://discord.gg/XhyEWG3PTr): Discord server for AI enthusiasts and prompt engineers.
-
-## Prompt Chaining
-
-- [LangChain Github Repository](https://github.com/hwchase17/langchain): Building applications with LLMs through composability.
-- [Conju.ai](https://app.conju.ai/): A visual prompt chaining app.
-- [Voiceflow](https://www.voiceflow.com): Professional collaborative visual prompt-chaining tool.
 
 ## Prompt Generators
 
