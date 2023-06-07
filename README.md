@@ -26,7 +26,7 @@ Consider giving it a ⭐️ if you like it to show your support!
 ## Roadmaps
 
 <a href="https://roadmap.sh/prompt-engineering">
-	<img src="https://github.com/snwfdhmp/awesome-gpt-prompt-engineering/blob/main/assets/roadmap.png?raw=true" width="300">
+	<img src="https://github.com/snwfdhmp/awesome-gpt-prompt-engineering/blob/main/assets/roadmap.png?raw=true" width="500">
 </a>
 
 ## Guides
