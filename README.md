@@ -25,7 +25,9 @@ Consider giving it a ⭐️ if you like it to show your support!
 
 ## Roadmaps
 
-- [Prompt Engineering Roadmap](https://roadmap.sh/prompt-engineering): Step by step guide to learning Prompt Engineering.
+<a href="https://roadmap.sh/prompt-engineering">
+	<img src="https://raw.githubusercontent.com/snwfdhmp/awesome-gpt-prompt-engineering/main/assets/roadmap.png" width="300">
+</a>
 
 ## Guides
 
