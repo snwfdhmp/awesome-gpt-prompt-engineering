@@ -4,10 +4,10 @@ A curated list of awesome resources, tools, and other shiny things for GPT promp
 
 Consider giving it a ⭐️ if you like it to show your support!
 
-## Contents
+**Table of Contents**
 
 - [Awesome GPT Prompt Engineering        ](#awesome-gpt-prompt-engineering--------)
-	- [Contents](#contents)
+	- [Roadmaps](#roadmaps)
 	- [Guides](#guides)
 	- [Techniques](#techniques)
 	- [Prompt Collections](#prompt-collections)
@@ -23,6 +23,10 @@ Consider giving it a ⭐️ if you like it to show your support!
 	- [Prompt Engineering Jobs Offers](#prompt-engineering-jobs-offers)
 	- [AI Links Directories](#ai-links-directories)
 - [Contributing](#contributing)
+
+## Roadmaps
+
+- [Prompt Engineering Roadmap](https://roadmap.sh/prompt-engineering): Step by step guide to learning Prompt Engineering.
 
 ## Guides
 
