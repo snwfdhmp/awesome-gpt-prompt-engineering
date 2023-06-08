@@ -91,6 +91,7 @@ with Large Language Models.
 - [PromptBase](https://promptbase.com/): The largest prompts marketplace on the web.
 - [The Ultimate 5 ChatGPT Prompts](https://ngmi.gumroad.com/l/nobsprompts): Simplify Your AI Experience.
 - [The Prompt Index](https://www.thepromptindex.com/): A vast collection of carefully curated prompts, stimulating imagination and fueling creative endeavours.
+- [PromptDen](https://promptden.com): A growing list of thousands of prompts for both text and image generation. Free to explore, add your own, save your favorites and even create a profile page for prompt engineering.
 
 ## Papers
 
