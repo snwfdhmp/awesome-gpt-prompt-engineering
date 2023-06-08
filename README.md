@@ -25,7 +25,6 @@ Consider giving it a ⭐️ if you like it to show your support!
 
 ## Roadmaps
 
-
 - [Prompt Engineering Roadmap](https://roadmap.sh/prompt-engineering): Step by step guide to learning Prompt Engineering.
 
 <a href="#guides">
@@ -91,6 +90,7 @@ with Large Language Models.
 - [Prompt Search](https://www.ptsearch.info/tags/list/): a search engine for AI Prompts.
 - [PromptBase](https://promptbase.com/): The largest prompts marketplace on the web.
 - [The Ultimate 5 ChatGPT Prompts](https://ngmi.gumroad.com/l/nobsprompts): Simplify Your AI Experience.
+- [The Prompt Index](https://www.thepromptindex.com/): A vast collection of carefully curated prompts, stimulating imagination and fueling creative endeavours.
 
 ## Papers
 
