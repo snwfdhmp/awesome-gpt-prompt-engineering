@@ -135,6 +135,7 @@ with Large Language Models.
 
 - [OpenAI Discord Server](https://discord.com/invite/openai): The official OpenAI Discord server.
 - [ChatGPT Prompt Engineering Discord Server](https://dsc.gg/chatgpt): A Discord server dedicated to prompt engineering.
+- [Attention Architects](https://discord.gg/XhyEWG3PTr): Prompt Engineering open source community.
 - [r/MachineLearning](https://www.reddit.com/r/MachineLearning/): The Machine Learning subreddit often has discussions on GPT and other language models.
 - [Hugging Face Forum](https://discuss.huggingface.co/): A forum for discussing Hugging Face's transformer models, including GPT.
 - [ChatGPT Community Discord Server](https://discord.gg/cgpt): A Discord server dedicated to ChatGPT.
