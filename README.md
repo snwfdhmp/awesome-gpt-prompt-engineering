@@ -53,6 +53,9 @@ Consider giving it a ⭐️ if you like it to show your support!
 - [Learn Prompting](https://learnprompting.org/): A Free, Open Source Course on Communicating with AI.
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning): Coursera specialization by Andrew Ng, which includes a course on Sequence Models.
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook): OpenAI's cookbook includes examples of prompt engineering.
+- [Tokens and Tokenization: Understanding Cost, Speed, and Limits with OpenAI's APIs](https://www.prompthub.us/blog/tokens-and-tokenization-understanding-cost-speed-and-limits-with-openais-apis): Everything tokens and tokenization. How to control costs/performance, how to handle Max Token limits, and a real-world example on how you can make your prompts more efficient.
+- [How OpenAI Parameters Actuallly Work](https://www.prompthub.us/blog/understanding-openai-parameters-how-to-optimize-your-prompts-for-better-outputs): How to use OpenAI's parameters to experiment with prompts and get better outputs.
+
 
 ## Techniques
 
