@@ -66,15 +66,12 @@ Consider giving it a ⭐️ if you like it to show your support!
 - [Zero Shot Chain of Thought](https://learnprompting.org/docs/intermediate/zero_shot_cot): Enable Chain of Thought with only a few words.
 - [Tree of Thoughts](https://arxiv.org/pdf/2305.10601.pdf): Tree of Thoughts: Deliberate Problem Solving.
 with Large Language Models.
-- [Multi Persona Collaboration] (https://www.prompthub.us/blog/exploring-multi-persona-prompting-for-better-outputs): Prompt the LLM to dynamically generate personas to collaborate to solve a task
-
+- [Multi Persona Collaboration](https://www.prompthub.us/blog/exploring-multi-persona-prompting-for-better-outputs): Prompt the LLM to dynamically generate personas to collaborate to solve a task.
 - [Mastering ChatGPT Prompts](https://www.reddit.com/r/aipromptprogramming/collection/d3a393ad-ef15-4f2a-a23e-18a5c90ff48d/): Mastering ChatGPT Prompts: Harnessing Zero, One, and Few-Shot Learning, Fine-Tuning, and Embeddings for Enhanced GPT Performance.
 - [Prompting GPT-3 To Be Reliable](https://arxiv.org/abs/2210.09150): Prompting GPT-3 To Be Reliable.
 - [Decomposed Prompting](https://arxiv.org/abs/2210.02406): A Modular Approach for Solving Complex Tasks.
 - [AutoPrompt](https://arxiv.org/abs/2010.15980): Eliciting Knowledge from Language Models with Automatically Generated Prompts.
 - [LangChain Github Repository](https://github.com/hwchase17/langchain): Building applications with LLMs through composability.
-- [Conju.ai](https://app.conju.ai/): A visual prompt chaining app.
-- [Voiceflow](https://www.voiceflow.com): Professional collaborative visual prompt-chaining tool.
   
 ## Prompt Collections
 
@@ -186,6 +183,8 @@ with Large Language Models.
 - [Better ChatGPT](https://bettergpt.chat): A web app with a better UI for exploring OpenAI's ChatGPT API.
 - [LMQL.AI](https://lmql.ai/playground/#calc): A programming language and platform for language models.
 - [Vercel Ai Playground](https://play.vercel.ai): One prompt, multiple Models (including GPT-4).
+- [Conju.ai](https://app.conju.ai/): A visual prompt chaining app.
+- [Voiceflow](https://www.voiceflow.com): Professional collaborative visual prompt-chaining tool.
 
 ## ChatGPT Plug-ins
 
