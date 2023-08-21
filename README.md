@@ -72,6 +72,7 @@ with Large Language Models.
 - [Decomposed Prompting](https://arxiv.org/abs/2210.02406): A Modular Approach for Solving Complex Tasks.
 - [AutoPrompt](https://arxiv.org/abs/2010.15980): Eliciting Knowledge from Language Models with Automatically Generated Prompts.
 - [LangChain Github Repository](https://github.com/hwchase17/langchain): Building applications with LLMs through composability.
+- [Embedchain Github Repository](https://github.com/embedchain/embedchain): Framework to create ChatGPT-like bots over your dataset.
   
 ## Prompt Collections
 
