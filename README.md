@@ -4,6 +4,8 @@ A curated list of awesome resources, tools, and other shiny things for GPT promp
 
 Consider giving it a ⭐️ if you like it to show your support!
 
+🚀 **RECOMMENDED**: [Use any LLM from the command line easily](https://github.com/snwfdhmp/llm). 🚀
+
 **Table of Contents**
 
 - [Awesome GPT Prompt Engineering        ](#awesome-gpt-prompt-engineering--------)
@@ -138,6 +140,7 @@ with Large Language Models.
 ## Communities
 
 - [OpenAI Discord Server](https://discord.com/invite/openai): The official OpenAI Discord server.
+- [Attention Architects](https://discord.gg/XhyEWG3PTr): Prompt Engineering expert & open source community.
 - [ChatGPT Prompt Engineering Discord Server](https://dsc.gg/chatgpt): A Discord server dedicated to prompt engineering.
 - [Attention Architects](https://discord.gg/XhyEWG3PTr): Prompt Engineering open source community.
 - [r/MachineLearning](https://www.reddit.com/r/MachineLearning/): The Machine Learning subreddit often has discussions on GPT and other language models.
@@ -147,6 +150,20 @@ with Large Language Models.
 - [PromptsLab Discord](https://discord.gg/m88xfYMbK6): Knowledge sharing community for Generative Models, Prompt Engineering, LLMs.
 - [Learn Prompting](https://discord.gg/7enStJXQzD): A Discord server dedicated to learning about prompts.
 - [Artificial Intelligence Discord](https://discord.gg/XhyEWG3PTr): Discord server for AI enthusiasts and prompt engineers.
+
+## Playgrounds and Alternative UIs
+
+- [Official OpenAI Playground](https://platform.openai.com/playground)
+- [llm](https://github.com/snwfdhmp/llm): Use any LLM from the command line, easily.
+- [Nat.Dev](https://nat.dev): Multiple Chat AI Playground & Comparer.
+- [Poe.com](https://poe.com): All in one playground: GPT4, Sage, Claude+, Dragonfly, and more...
+- [Ora.sh GPT-4 Chatbots](https://ora.sh/gpt-4)
+- [Better ChatGPT](https://bettergpt.chat): A web app with a better UI for exploring OpenAI's ChatGPT API.
+- [LMQL.AI](https://lmql.ai/playground/#calc): A programming language and platform for language models.
+- [Vercel Ai Playground](https://play.vercel.ai): One prompt, multiple Models (including GPT-4).
+- [Conju.ai](https://app.conju.ai/): A visual prompt chaining app.
+- [Voiceflow](https://www.voiceflow.com): Professional collaborative visual prompt-chaining tool.
+- [CometLLM](https://github.com/comet-ml/comet-llm): Track, visualize, and evaluate your LLM prompts and chains in one simple-to-use, convenient UI.
 
 ## Prompt Generators
 
@@ -159,7 +176,7 @@ with Large Language Models.
 - [LMQL](https://github.com/eth-sri/lmql): Query language for programming large language models.
 - [OpenPromptStudio](https://moonvy.com/apps/ops/)
 - [BossGPT](https://www.gptboss.com)
-
+  
 ## Auto-GPT Related
 
 - [Auto-GPT Official Repo](https://github.com/Significant-Gravitas/Auto-GPT)
@@ -175,19 +192,6 @@ with Large Language Models.
 - [Prompt injection: What's the worst that can happen?](https://simonwillison.net/2023/Apr/14/worst-that-can-happen/)
 - [Prompt injections are bad, mkay?](https://greshake.github.io/)
 
-## Playgrounds and Alternative UIs
-
-- [Official OpenAI Playground](https://platform.openai.com/playground)
-- [Nat.Dev](https://nat.dev): Multiple Chat AI Playground & Comparer.
-- [Poe.com](https://poe.com): All in one playground: GPT4, Sage, Claude+, Dragonfly, and more...
-- [Ora.sh GPT-4 Chatbots](https://ora.sh/gpt-4)
-- [Better ChatGPT](https://bettergpt.chat): A web app with a better UI for exploring OpenAI's ChatGPT API.
-- [LMQL.AI](https://lmql.ai/playground/#calc): A programming language and platform for language models.
-- [Vercel Ai Playground](https://play.vercel.ai): One prompt, multiple Models (including GPT-4).
-- [Conju.ai](https://app.conju.ai/): A visual prompt chaining app.
-- [Voiceflow](https://www.voiceflow.com): Professional collaborative visual prompt-chaining tool.
-- [CometLLM](https://github.com/comet-ml/comet-llm): Track, visualize, and evaluate your LLM prompts and chains in one simple-to-use, convenient UI.
-
 ## ChatGPT Plug-ins
 
 - [ChatGPT plugins](https://openai.com/blog/chatgpt-plugins): OpenAI Official Page.
@@ -201,6 +205,7 @@ with Large Language Models.
 
 ## AI Links Directories
 
+- [llm](https://github.com/snwfdhmp/llm): Use any LLM from the command line. 
 - [FuturePedia](https://www.futurepedia.io/ai-tools): The Largest AI Tools Directory Updated Daily.
 - [Theresanaiforthat](https://theresanaiforthat.com/s/gpt/): The biggest AI aggregator.
 - [Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)
@@ -221,3 +226,7 @@ How to help:
 - Add new resources to the list.
 - Fix typos or grammatical errors.
 - Share this repository with others.
+
+# Featured
+
+🚀 **RECOMMENDED**: [Use any LLM from the command line easily with llm](https://github.com/snwfdhmp/llm). 🚀
