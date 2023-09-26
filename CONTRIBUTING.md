@@ -10,14 +10,9 @@ We welcome contributions to this list! Here's how you can help:
 
 3. Please look through the existing categories before suggesting a new one. We want to keep the list manageable and well-organized, so we may reject new categories if they're too narrow or overlap significantly with existing ones.
 
-4. To suggest a new resource, [open a new issue](https://github.com/username/repo/issues/new) and use the following format:
+4. To suggest a new resource, open a new PR and follow the current README format for resources.
 
-```
-- Resource Name: [name]
-- Resource Type: [paper/book/course/tutorial/blog/tool/community]
-- Link: [url]
-- Description: [brief description of the resource and why it's awesome]
-```
+⚠️ THE DESCRIPTION SHOULD BE DESCRIPTIVE AND NOT CONTAIN ANY SUBJECTIVE ELEMENT SUCH AS "THE BEST <...>". ⚠️
 
 ## Improving existing resources
 
