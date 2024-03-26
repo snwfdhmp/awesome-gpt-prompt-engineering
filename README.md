@@ -83,7 +83,7 @@ with Large Language Models.
 - [fka/awesome-chatgpt-prompts](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts): Dataset of awesome chatgpt prompts.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): This repo includes ChatGPT prompt curation to use ChatGPT better. .
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
-- [PromptHub](https://prompthub.space/)
+- [PromptHub](https://prompthub.us/)
 - [ShowGPT.co](https://showgpt.co/templates)
 - [Best Data Science ChatGPT Prompts](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts)
 - [ChatGPT prompts uploaded by the FlowGPT community](https://flowgpt.com)
