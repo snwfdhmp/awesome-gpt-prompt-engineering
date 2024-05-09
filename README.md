@@ -58,6 +58,7 @@ Consider giving it a ⭐️ if you like it to show your support!
 - [Tokens and Tokenization: Understanding Cost, Speed, and Limits with OpenAI's APIs](https://www.prompthub.us/blog/tokens-and-tokenization-understanding-cost-speed-and-limits-with-openais-apis): Everything tokens and tokenization. How to control costs/performance, how to handle Max Token limits, and a real-world example on how you can make your prompts more efficient.
 - [How OpenAI Parameters Actuallly Work](https://www.prompthub.us/blog/understanding-openai-parameters-how-to-optimize-your-prompts-for-better-outputs): How to use OpenAI's parameters to experiment with prompts and get better outputs.
 - [A Beginner's Guide on Embeddings and Their Impact on Prompts](https://www.prompthub.us/blog/a-beginners-guide-on-embeddings-and-their-impact-on-prompts): A Beginner's Guide on Embeddings and Their Impact on Prompts.
+- [Prompt Engineering for Vision Models](https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/): A beginner's guide to prompting vision models from DeepLearningAI.
 
 
 ## Techniques
