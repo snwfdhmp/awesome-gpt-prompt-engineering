@@ -202,7 +202,7 @@ with Large Language Models.
 
 ## Prompt Engineering Jobs Offers
 
-- [Prompt-Talent](https://www.prompt-talent.com): Prompt engineering job offers.
+- [Prompt-Talent](https://www.prompt-talent.com): Prompt Engineering job offers.
 
 ## AI Links Directories
 
