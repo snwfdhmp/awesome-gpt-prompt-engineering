@@ -35,7 +35,7 @@ Consider giving it a ⭐️ if you like it to show your support!
 
 ## Guides
 
-- [Learn Prompt Engineering](https://learnprompting.org/docs/category/-basics): Introduction to Prompt Engineering and Prompt Engineering techniques.
+- [Learn Prompt Engineering](https://learnprompting.org/docs/): Introduction to Prompt Engineering and Prompt Engineering techniques.
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): Guides, papers, lecture, notebooks and resources for prompt engineering.
 - [Prompt Engineering 101](https://www.linkedin.com/pulse/prompt-engineering-101-introduction-resources-amatriain): Prompt Engineering guide by Xavi.
 - [Prompt Engineering 101](https://humanloop.com/blog/prompt-engineering-101): Prompt Engineering guide by Raza Habib & Sinan Ozdemir.
@@ -105,6 +105,7 @@ with Large Language Models.
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762): Transformer introduction paper.
 - [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165): GPT-3 introduction paper by OpenAI.
 - [Fine-Tuning Language Models from Human Preferences](https://arxiv.org/abs/1909.08593): Important paper on fine-tuning language models by OpenAI.
+- [The Prompt Report](https://arxiv.org/abs/2406.06608): A systematic survey of prompting techniques.
 - [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/abs/2104.08691): Explores the benefits of "prompt tuning" for robust task performance.
 - [Deep Attentive Learning for Stock Movement Prediction From Social Media Text and Company Correlations](https://aclanthology.org/2020.emnlp-main.676): Introduces an architecture for accurate stock forecasting using financial data and social media signals.
 - [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/abs/2302.11382)
