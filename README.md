@@ -4,8 +4,6 @@ A curated list of awesome resources, tools, and other shiny things for GPT promp
 
 Consider giving it a ⭐️ if you like it to show your support!
 
-🚀 **RECOMMENDED**: [Use any LLM from the command line easily](https://github.com/snwfdhmp/llm). 🚀
-
 **Table of Contents**
 
 - [Awesome GPT Prompt Engineering        ](#awesome-gpt-prompt-engineering--------)
