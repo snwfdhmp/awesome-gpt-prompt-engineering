@@ -98,6 +98,7 @@ with Large Language Models.
 - [The Prompt Index](https://www.thepromptindex.com/): A vast collection of carefully curated prompts, stimulating imagination and fueling creative endeavours.
 - [PromptDen](https://promptden.com): A growing list of thousands of prompts for both text and image generation. Free to explore, add your own, save your favorites and even create a profile page for prompt engineering.
 - [God Tier Prompts](https://www.godtierprompts.com): Discover the best prompts. A community-driven leaderboard where the best prompts rise to the top.
+- [Taskade](https://taskade.com/prompts): 700+ AI prompt templates and custom AI agents with configurable prompt systems. Multi-model support (GPT-4o, Claude, Gemini).
 
 ## Papers
 
