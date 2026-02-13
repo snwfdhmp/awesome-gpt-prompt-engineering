@@ -175,6 +175,7 @@ with Large Language Models.
 - [ChatGPT Prompt Generator](https://huggingface.co/spaces/merve/ChatGPT-prompt-generator): Generates ChatGPT prompts based on a BART model.
 - [PromptPerfect](https://promptperfect.jina.ai/): Prompt optimizer.
 - [Hero GPT](https://hero.page/ai-prompts): AI Prompt Generator.
+- [TubePrompter](https://tubeprompter.com): Converts YouTube, TikTok, and Instagram videos into AI-ready prompts for Sora, Midjourney, and Runway using computer vision analysis.
 - [LMQL](https://github.com/eth-sri/lmql): Query language for programming large language models.
 - [OpenPromptStudio](https://moonvy.com/apps/ops/)
 - [BossGPT](https://www.gptboss.com)
