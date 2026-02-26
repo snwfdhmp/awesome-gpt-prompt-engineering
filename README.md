@@ -94,6 +94,7 @@ with Large Language Models.
 - [ShareGPT](https://sharegpt.com): Share your prompts and your entire conversations.
 - [Prompt Search](https://www.ptsearch.info/tags/list/): a search engine for AI Prompts.
 - [PromptBase](https://promptbase.com/): The largest prompts marketplace on the web.
+- [AI Image Lab](https://aiimagelab.art/): Free AI image generator with a curated prompt library across 8 categories. 4K output.
 - [The Ultimate 5 ChatGPT Prompts](https://ngmi.gumroad.com/l/nobsprompts): Simplify Your AI Experience.
 - [The Prompt Index](https://www.thepromptindex.com/): A vast collection of carefully curated prompts, stimulating imagination and fueling creative endeavours.
 - [PromptDen](https://promptden.com): A growing list of thousands of prompts for both text and image generation. Free to explore, add your own, save your favorites and even create a profile page for prompt engineering.
