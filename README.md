@@ -180,6 +180,7 @@ with Large Language Models.
 - [LMQL](https://github.com/eth-sri/lmql): Query language for programming large language models.
 - [OpenPromptStudio](https://moonvy.com/apps/ops/)
 - [BossGPT](https://www.gptboss.com)
+- [OpenPaw](https://github.com/daxaur/openpaw): CLI tool (`npx pawmode`) that generates system prompts (CLAUDE.md + SOUL.md) to turn Claude Code into a personal assistant with 38 skills, memory, and personality.
   
 ## Auto-GPT Related
 
