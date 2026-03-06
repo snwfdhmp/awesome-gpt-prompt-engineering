@@ -180,6 +180,7 @@ with Large Language Models.
 - [LMQL](https://github.com/eth-sri/lmql): Query language for programming large language models.
 - [OpenPromptStudio](https://moonvy.com/apps/ops/)
 - [BossGPT](https://www.gptboss.com)
+- [flompt](https://flompt.dev/app): Visual AI prompt builder that decomposes prompts into 12 semantic blocks and recompiles them into optimized XML. Web app, browser extension, and MCP server.
   
 ## Auto-GPT Related
 
