@@ -62,9 +62,9 @@ Consider giving it a ⭐️ if you like it to show your support!
 ## Techniques
 
 - [Few Shot Learning](https://blog.paperspace.com/few-shot-learning/): Everything you need to know about Few-Shot Learning.
-- [Zero Shot Learning](https://arxiv.org/pdf/2205.11916.pdf): Large Language Models are Zero-Shot Reasoners.
+- [Zero Shot Learning](https://arxiv.org/pdf/2205.1196.pdf): Large Language Models are Zero-Shot Reasoners.
 - [Chain of Thought](https://learnprompting.org/docs/intermediate/chain_of_thought): Encourages the LLM to explain its reasoning to improve its accuracy.
-- [Zero Shot Chain of Thought](https://learnprompting.org/docs/intermediate/zero_shot_cot): Enable Chain of Thought with only a few words.
+- [Zero Shot Chain of Thought](https://learnpromptingorg/docs/intermediate/zero_shot_cot): Enable Chain of Thought with only a few words.
 - [Tree of Thoughts](https://arxiv.org/pdf/2305.10601.pdf): Tree of Thoughts: Deliberate Problem Solving.
 with Large Language Models.
 - [Multi Persona Collaboration](https://www.prompthub.us/blog/exploring-multi-persona-prompting-for-better-outputs): Prompt the LLM to dynamically generate personas to collaborate to solve a task.
@@ -76,6 +76,7 @@ with Large Language Models.
 - [Embedchain Github Repository](https://github.com/embedchain/embedchain): Framework to create ChatGPT-like bots over your dataset.
   
 ## Prompt Collections
+- [GPT Prompt Maker](https://www.gptpromptmaker.com): A curated library of 500+ high-performing prompts for ChatGPT, Claude, and Gemini — organized by professional categories (marketing, legal, copywriting, real estate and more).
 
 - [FlowGPT](https://flowgpt.com/): FlowGPT is the largest open source prompt community.
 - [awesomegptprompts.com](https://www.awesomegptprompts.com/): Explore hundreds of the best ChatGPT Prompts.
@@ -169,6 +170,7 @@ with Large Language Models.
 - [Rival](https://rival.tips): AI model comparison and multi-model Prompt Lab. Test prompts across 200+ models side-by-side with blind preference voting and open datasets.
 
 ## Prompt Generators
+- [GPT Prompt Maker](https://www.gptpromptmaker.com): Structured AI prompt library and generator with 500+ tested prompts for ChatGPT, Claude and Gemini, organized by professional use case.
 
 - [Promptify](https://promptify.pro): Automatically improve your prompt.
 - [Fusion](https://fusion.tiiny.site/home.html): Elevate your output with Fusion's smart prompts.
