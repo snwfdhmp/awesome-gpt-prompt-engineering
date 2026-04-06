@@ -98,6 +98,7 @@ with Large Language Models.
 - [The Prompt Index](https://www.thepromptindex.com/): A vast collection of carefully curated prompts, stimulating imagination and fueling creative endeavours.
 - [PromptDen](https://promptden.com): A growing list of thousands of prompts for both text and image generation. Free to explore, add your own, save your favorites and even create a profile page for prompt engineering.
 - [God Tier Prompts](https://www.godtierprompts.com): Discover the best prompts. A community-driven leaderboard where the best prompts rise to the top.
+- [Guardian Agent Prompts](https://github.com/milkomida77/guardian-agent-prompts): 49 production-tested system prompts for multi-agent AI systems. Battle-tested patterns from running 57 agents 24/7 for 6+ months. Free orchestrator sample included.
 
 ## Papers
 
