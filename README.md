@@ -219,6 +219,7 @@ with Large Language Models.
 - [KennethanCeyer awesome-llm](https://github.com/KennethanCeyer/awesome-llm)
 - [tensorchord Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps)
 - [Price Per Token](https://pricepertoken.com/): Compare LLM API pricing across 300+ models with benchmarks and cost calculators.
+- [RemoteOpenClaw](https://remoteopenclaw.com): Open marketplace for AI skills and personas built on OpenClaw.
 
 # Contributing
 
