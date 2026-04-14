@@ -57,6 +57,7 @@ Consider giving it a ⭐️ if you like it to show your support!
 - [How OpenAI Parameters Actuallly Work](https://www.prompthub.us/blog/understanding-openai-parameters-how-to-optimize-your-prompts-for-better-outputs): How to use OpenAI's parameters to experiment with prompts and get better outputs.
 - [A Beginner's Guide on Embeddings and Their Impact on Prompts](https://www.prompthub.us/blog/a-beginners-guide-on-embeddings-and-their-impact-on-prompts): A Beginner's Guide on Embeddings and Their Impact on Prompts.
 - [Prompt Engineering for Vision Models](https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/): A beginner's guide to prompting vision models from DeepLearningAI.
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 
 ## Techniques
