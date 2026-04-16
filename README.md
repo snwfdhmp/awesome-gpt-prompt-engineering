@@ -77,6 +77,9 @@ with Large Language Models.
   
 ## Prompt Collections
 
+- [FutureAGI agent-opt](https://github.com/future-agi/agent-opt)
+- [FutureAGI futureagi-sdk](https://github.com/future-agi/futureagi-sdk)
+
 - [FlowGPT](https://flowgpt.com/): FlowGPT is the largest open source prompt community.
 - [awesomegptprompts.com](https://www.awesomegptprompts.com/): Explore hundreds of the best ChatGPT Prompts.
 - [fka/awesome-chatgpt-prompts](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts): Dataset of awesome chatgpt prompts.
