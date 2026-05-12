@@ -188,6 +188,7 @@ with Large Language Models.
 - [OpenAIMaster's Guide to Auto-GPT](https://openaimaster.com/how-does-autogpt-work-an-ai-tool-to-create-full-projects/): How does Auto-GPT work, an AI tool to create full projects.
 - [AgentGPT](https://agentgpt.reworkd.ai): GPT agents in browser.
 - [DemoGPT](https://github.com/melih-unsal/DemoGPT): 🧩 DemoGPT enables you to create quick demos by just using prompts.
+- [Future AGI](https://github.com/future-agi/future-agi): Open-source self-hostable end-to-end agent engineering and optimization platform unifying tracing, evals, simulations, datasets, gateway, and guardrails for shipping self-improving AI agents.
 
 ## Prompt Injection
 
