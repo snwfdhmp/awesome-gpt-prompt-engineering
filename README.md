@@ -57,6 +57,9 @@ Consider giving it a ⭐️ if you like it to show your support!
 - [How OpenAI Parameters Actuallly Work](https://www.prompthub.us/blog/understanding-openai-parameters-how-to-optimize-your-prompts-for-better-outputs): How to use OpenAI's parameters to experiment with prompts and get better outputs.
 - [A Beginner's Guide on Embeddings and Their Impact on Prompts](https://www.prompthub.us/blog/a-beginners-guide-on-embeddings-and-their-impact-on-prompts): A Beginner's Guide on Embeddings and Their Impact on Prompts.
 - [Prompt Engineering for Vision Models](https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/): A beginner's guide to prompting vision models from DeepLearningAI.
+- [Building Effective Agents (Anthropic)](https://www.anthropic.com/research/building-effective-agents): Practical patterns for building reliable LLM-powered agents — from prompt chaining and routing to evaluator-optimizer loops and autonomous agents.
+- [Your AI Product Needs Evals (Hamel Husain)](https://hamel.dev/blog/posts/evals/): The canonical guide on evaluation-driven prompt and product development for LLM applications — test sets, error analysis, and iteration loops.
+- [AI-Native Tech Stack & Architecture (2026)](https://ai-native-agency.com/blog/ai-native-agency-tech-stack): A breakdown of the 5-layer architecture used in production AI builds — model selection, prompt management, retrieval, evaluation, and observability — with tooling recommendations and cost trade-offs.
 
 
 ## Techniques
