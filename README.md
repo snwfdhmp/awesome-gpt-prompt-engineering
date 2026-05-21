@@ -165,6 +165,7 @@ with Large Language Models.
 - [Conju.ai](https://app.conju.ai/): A visual prompt chaining app.
 - [Voiceflow](https://www.voiceflow.com): Professional collaborative visual prompt-chaining tool.
 - [Opik](https://github.com/comet-ml/opik): Evaluate, test, and ship LLM applications across your dev and production lifecycles.
+- [PromptEval](https://prompt-eval.com/en): End-to-end prompt quality platform: diagnostic scoring (0–100), surgical optimization, A/B testing, and versioned library — everything to ship prompts that don't break in production.
 - [Rhesis AI](https://github.com/rhesis-ai/rhesis): OSS Platform & SDK. Collaborative agent testing for teams.
 - [Rival](https://rival.tips): AI model comparison and multi-model Prompt Lab. Test prompts across 200+ models side-by-side with blind preference voting and open datasets.
 
