@@ -195,6 +195,7 @@ with Large Language Models.
 - [Learn Prompting's Prompt Injection guide](https://learnprompting.org/docs/prompt_hacking/injection): A guide to prompt injections with examples.
 - [Prompt injection: What's the worst that can happen?](https://simonwillison.net/2023/Apr/14/worst-that-can-happen/)
 - [Prompt injections are bad, mkay?](https://greshake.github.io/)
+- [APort Agent Guardrails](https://aport.io) - Pre-action authorization guardrails for AI agents and MCP/tool-use workflows.
 
 ## ChatGPT Plug-ins
 
