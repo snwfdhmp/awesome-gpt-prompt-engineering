@@ -157,6 +157,7 @@ with Large Language Models.
 - [Official OpenAI Playground](https://platform.openai.com/playground)
 - [llm](https://github.com/snwfdhmp/llm): Use any LLM from the command line, easily.
 - [Nat.Dev](https://nat.dev): Multiple Chat AI Playground & Comparer.
+- [Prompt Evaluator](https://promptevaluator.vercel.app): Free prompt and workflow auditing tool — test, score, and improve AI prompts before deployment. ([GitHub](https://github.com/ariangibson/prompt-evaluator))
 - [Poe.com](https://poe.com): All in one playground: GPT4, Sage, Claude+, Dragonfly, and more...
 - [Ora.sh GPT-4 Chatbots](https://ora.sh/gpt-4)
 - [Better ChatGPT](https://bettergpt.chat): A web app with a better UI for exploring OpenAI's ChatGPT API.
