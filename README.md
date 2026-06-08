@@ -154,6 +154,7 @@ with Large Language Models.
 
 ## Playgrounds and Alternative UIs
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring and wallet identity verification for AI prompt agents on Solana before x402 micropayments. Verify agent wallet identity before accessing paid prompt databases or premium system prompt APIs. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 - [Official OpenAI Playground](https://platform.openai.com/playground)
 - [llm](https://github.com/snwfdhmp/llm): Use any LLM from the command line, easily.
 - [Nat.Dev](https://nat.dev): Multiple Chat AI Playground & Comparer.
