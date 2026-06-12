@@ -235,3 +235,6 @@ How to help:
 # Featured
 
 🚀 **RECOMMENDED**: [Use any LLM from the command line easily with llm](https://github.com/snwfdhmp/llm). 🚀
+
+
+- [Perseus](https://github.com/tcconnally/perseus) - Live workspace context engine for AI agents. Renders AGENTS.md at session start. Plug-in for Claude Code, Codex, Hermes.
