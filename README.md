@@ -93,6 +93,7 @@ with Large Language Models.
 - [Snack Prompt](https://snackprompt.com): GPT prompts collection, has a a Chrome extension.
 - [ShareGPT](https://sharegpt.com): Share your prompts and your entire conversations.
 - [Prompt Search](https://www.ptsearch.info/tags/list/): a search engine for AI Prompts.
+- [CreatorSkills](https://creatorskills.co): Marketplace of 30+ downloadable AI skills for content creators — YouTube scripting, sponsorship analysis, content repurposing, and audience growth.
 - [PromptBase](https://promptbase.com/): The largest prompts marketplace on the web.
 - [The Ultimate 5 ChatGPT Prompts](https://ngmi.gumroad.com/l/nobsprompts): Simplify Your AI Experience.
 - [The Prompt Index](https://www.thepromptindex.com/): A vast collection of carefully curated prompts, stimulating imagination and fueling creative endeavours.
