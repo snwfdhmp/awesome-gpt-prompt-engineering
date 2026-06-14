@@ -85,6 +85,7 @@ with Large Language Models.
 - [PromptHub](https://prompthub.us/)
 - [ShowGPT.co](https://showgpt.co/templates)
 - [Best Data Science ChatGPT Prompts](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts)
+- [AI Workflow Prompts Zh](https://github.com/Ronnie2025/ai-workflow-prompts-zh): Free Chinese AI workflow prompts for content planning, meeting action items, client proposal drafts, PPT outlines, SOPs, and retrospectives.
 - [ChatGPT prompts uploaded by the FlowGPT community](https://flowgpt.com)
 - [Ignacio Velásquez Prompt Templates](https://ignacio-velasquez.notion.site/ignacio-velasquez/500-ChatGPT-Prompt-Templates-d9541e901b2b4e8f800e819bdc0256da): 500+ ChatGPT Prompt Templates.
 - [PromptPal](https://www.promptpal.net/): A collection of prompts for GPT-3 and other language models.
