@@ -153,6 +153,7 @@ with Large Language Models.
 - [Artificial Intelligence Discord](https://discord.gg/XhyEWG3PTr): Discord server for AI enthusiasts and prompt engineers.
 
 ## Playgrounds and Alternative UIs
+*   [AI Prompt Architect](https://aipromptarchitect.co.uk) - Professional platform for developers to treat prompts as code, featuring variable interpolation, automated testing, and cost analytics.
 
 - [Official OpenAI Playground](https://platform.openai.com/playground)
 - [llm](https://github.com/snwfdhmp/llm): Use any LLM from the command line, easily.
