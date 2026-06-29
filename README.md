@@ -35,6 +35,7 @@ Consider giving it a ⭐️ if you like it to show your support!
 
 - [Learn Prompt Engineering](https://learnprompting.org/docs/): Introduction to Prompt Engineering and Prompt Engineering techniques.
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): Guides, papers, lecture, notebooks and resources for prompt engineering.
+- [AI全书 Prompt Engineering Guide](https://aibook.ren/categories/prompt-engineering): Chinese prompt engineering learning guide covering prompt structure, context design, output constraints, evaluation, and practical workflow.
 - [Prompt Engineering 101](https://www.linkedin.com/pulse/prompt-engineering-101-introduction-resources-amatriain): Prompt Engineering guide by Xavi.
 - [Prompt Engineering 101](https://humanloop.com/blog/prompt-engineering-101): Prompt Engineering guide by Raza Habib & Sinan Ozdemir.
 - [Prompt Engineering Guide](https://github.com/SudalaiRajkumar/Talks_Webinars/blob/master/Slides/PromptEngineering_20230208.pdf): Prompt Engineering guide by Sudalai Rajkumar.
