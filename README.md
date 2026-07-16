@@ -132,6 +132,9 @@ with Large Language Models.
 - [Generated Knowledge Prompting for Commonsense Reasoning](https://arxiv.org/abs/2110.08387)
 - [Large Language Models Can Be Easily Distracted by Irrelevant Context](https://arxiv.org/abs/2302.00093)
 - [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073)
+- [PerspectiveGap: A Benchmark for Multi-Agent Orchestration Prompting](https://arxiv.org/abs/2606.08878): The first benchmark for multi-agent orchestration prompt writing, evaluating how well LLMs assign information fragments and compose prompts for sub-agents across 110 scenarios and 10 loop topologies.
+- [Agon: An Autonomous Large-Scale Omnidisciplinary Research System Built on Prompt Economy](https://arxiv.org/abs/2606.24177): Treats prompt engineering as an engineering discipline, maximizing ROI on every prompt through reusable loops, scaling autonomous research across more than ten domains with only 18 roles and the leanest prompt surface of any system in its class.
+- [Jailbreaking LLMs' Safeguard with Universal Magic Words for Text Embedding Models](https://arxiv.org/abs/2501.18280): Discovers universal magic words that manipulate text embedding similarity, bypassing safety guardrails across ChatGPT, DeepSeek, Qwen, and other major LLMs.
 
 ## Books
 
