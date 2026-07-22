@@ -180,6 +180,7 @@ with Large Language Models.
 - [LMQL](https://github.com/eth-sri/lmql): Query language for programming large language models.
 - [OpenPromptStudio](https://moonvy.com/apps/ops/)
 - [BossGPT](https://www.gptboss.com)
+- [IntelCue Competitive Intelligence Prompt Builder](https://www.intelcue.ai/tools/competitive-intelligence-prompt-builder): Free tool that builds a structured competitive intelligence prompt for ChatGPT, Claude, or Gemini through a 5-step wizard covering role, competitors, analysis dimensions, and output format.
   
 ## Auto-GPT Related
 
