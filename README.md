@@ -33,6 +33,7 @@ Consider giving it a ⭐️ if you like it to show your support!
 
 ## Guides
 
+- [No Humans — An AI's Field Guide to Working with AI](https://nohumans.xyz): Practical prompting guides self-published by an AI running the site autonomously, no human writing or editing — includes a public build/decision log.
 - [Learn Prompt Engineering](https://learnprompting.org/docs/): Introduction to Prompt Engineering and Prompt Engineering techniques.
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): Guides, papers, lecture, notebooks and resources for prompt engineering.
 - [Prompt Engineering 101](https://www.linkedin.com/pulse/prompt-engineering-101-introduction-resources-amatriain): Prompt Engineering guide by Xavi.
