@@ -219,6 +219,7 @@ with Large Language Models.
 - [KennethanCeyer awesome-llm](https://github.com/KennethanCeyer/awesome-llm)
 - [tensorchord Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps)
 - [Price Per Token](https://pricepertoken.com/): Compare LLM API pricing across 300+ models with benchmarks and cost calculators.
+- [AIGuideDZ](https://aiguidedz.com/): Free tutorials and tool comparisons for ChatGPT, Claude, Gemini and DeepSeek, plus an interactive quiz that recommends an AI tool based on your task and budget.
 
 # Contributing
 
