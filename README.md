@@ -195,6 +195,7 @@ with Large Language Models.
 - [Learn Prompting's Prompt Injection guide](https://learnprompting.org/docs/prompt_hacking/injection): A guide to prompt injections with examples.
 - [Prompt injection: What's the worst that can happen?](https://simonwillison.net/2023/Apr/14/worst-that-can-happen/)
 - [Prompt injections are bad, mkay?](https://greshake.github.io/)
+- [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive): An open database of real-world AI agent security incidents, including 45 indirect prompt injection records; each record cites a primary source and states whether a victim was confirmed.
 
 ## ChatGPT Plug-ins
 
