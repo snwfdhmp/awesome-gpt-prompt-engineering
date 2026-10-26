@@ -219,6 +219,7 @@ with Large Language Models.
 - [KennethanCeyer awesome-llm](https://github.com/KennethanCeyer/awesome-llm)
 - [tensorchord Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps)
 - [Price Per Token](https://pricepertoken.com/): Compare LLM API pricing across 300+ models with benchmarks and cost calculators.
+- [Mode VC LLM Inference Cost Calculator](https://modevc.com/tools/llm-inference-calculator) : Free browser-side LLM token unit economics, prompt caching, and gross margin calculator across 8 frontier and open-weights models.
 
 # Contributing
 
