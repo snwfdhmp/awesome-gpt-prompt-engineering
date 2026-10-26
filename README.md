@@ -167,6 +167,7 @@ with Large Language Models.
 - [Opik](https://github.com/comet-ml/opik): Evaluate, test, and ship LLM applications across your dev and production lifecycles.
 - [Rhesis AI](https://github.com/rhesis-ai/rhesis): OSS Platform & SDK. Collaborative agent testing for teams.
 - [Rival](https://rival.tips): AI model comparison and multi-model Prompt Lab. Test prompts across 200+ models side-by-side with blind preference voting and open datasets.
+- [Future AGI](https://github.com/future-agi/future-agi): Open-source platform to run, version, and evaluate prompts, with labels to promote or roll back a version.
 
 ## Prompt Generators
 
