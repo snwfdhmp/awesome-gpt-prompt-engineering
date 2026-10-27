@@ -57,6 +57,7 @@ Consider giving it a ⭐️ if you like it to show your support!
 - [How OpenAI Parameters Actuallly Work](https://www.prompthub.us/blog/understanding-openai-parameters-how-to-optimize-your-prompts-for-better-outputs): How to use OpenAI's parameters to experiment with prompts and get better outputs.
 - [A Beginner's Guide on Embeddings and Their Impact on Prompts](https://www.prompthub.us/blog/a-beginners-guide-on-embeddings-and-their-impact-on-prompts): A Beginner's Guide on Embeddings and Their Impact on Prompts.
 - [Prompt Engineering for Vision Models](https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/): A beginner's guide to prompting vision models from DeepLearningAI.
+- [Protologue](https://protologue.com/): Open (CC BY 4.0) taxonomy of 230+ prompting and LLM techniques, each with a citable definition, permanent ID and the primary source that introduced it.
 
 
 ## Techniques
