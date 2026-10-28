@@ -212,6 +212,7 @@ with Large Language Models.
 - [llm](https://github.com/snwfdhmp/llm): Use any LLM from the command line. 
 - [FuturePedia](https://www.futurepedia.io/ai-tools): The Largest AI Tools Directory Updated Daily.
 - [Theresanaiforthat](https://theresanaiforthat.com/s/gpt/): The biggest AI aggregator.
+- [Creati.ai](https://creati.ai/): Multilingual directory of 28,000+ AI tools and agents, with daily AI news and monthly rankings.
 - [Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)
 - [AiTreasureBox](https://github.com/superiorlu/AiTreasureBox)
 - [EwingYangs Awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt)
