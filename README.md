@@ -45,6 +45,7 @@ Consider giving it a ⭐️ if you like it to show your support!
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): A GitHub repository that provides a prompt engineering guide with the latest papers and learning guides.
 - [How to Communicate with ChatGPT – A Guide to Prompt Engineering](https://www.freecodecamp.org/news/how-to-communicate-with-chatgpt-a-guide-to-prompt-engineering/): A guide that explains what prompt engineering is and how you can use it to improve your communication with AI tools.
 - [A Beginner's Guide to ChatGPT Prompt Engineering](https://www.datacamp.com/tutorial/a-beginners-guide-to-chatgpt-prompt-engineering): A beginner-friendly guide that delves into the art and science of Prompt Engineering.
+- [Twój pierwszy dobry prompt](https://ai.aeneia.pl/demo/lekcje/pierwszy-dobry-prompt): A free Polish-language lesson on writing and checking a ChatGPT prompt.
 - [A Complete Introduction to Prompt Engineering for Large Language Models](https://www.mihaileric.com/posts/a-complete-introduction-to-prompt-engineering)
 - [Prompt Engineering Guide: How to Engineer the Perfect Prompts](https://richardbatt.co.uk/prompt-engineering-guide-how-to-engineer-the-perfect-prompts)
 - [Best practices for prompt engineering with OpenAI API](https://help.openai.com/articles/6654000-best-practices-for-prompt-engineering-with-openai-api): A guide by OpenAI that provides best practices for prompt engineering.
