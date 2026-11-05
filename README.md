@@ -74,6 +74,7 @@ with Large Language Models.
 - [AutoPrompt](https://arxiv.org/abs/2010.15980): Eliciting Knowledge from Language Models with Automatically Generated Prompts.
 - [LangChain Github Repository](https://github.com/hwchase17/langchain): Building applications with LLMs through composability.
 - [Embedchain Github Repository](https://github.com/embedchain/embedchain): Framework to create ChatGPT-like bots over your dataset.
+- [How Many Examples Does a Prompt Need?](https://digibog.com/how-many-examples-does-a-prompt-need/): Few-shot prompting: why two to five examples usually work, how to choose them, and when examples hurt.
   
 ## Prompt Collections
 
