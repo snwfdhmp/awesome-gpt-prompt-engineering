@@ -57,6 +57,7 @@ Consider giving it a ⭐️ if you like it to show your support!
 - [How OpenAI Parameters Actuallly Work](https://www.prompthub.us/blog/understanding-openai-parameters-how-to-optimize-your-prompts-for-better-outputs): How to use OpenAI's parameters to experiment with prompts and get better outputs.
 - [A Beginner's Guide on Embeddings and Their Impact on Prompts](https://www.prompthub.us/blog/a-beginners-guide-on-embeddings-and-their-impact-on-prompts): A Beginner's Guide on Embeddings and Their Impact on Prompts.
 - [Prompt Engineering for Vision Models](https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/): A beginner's guide to prompting vision models from DeepLearningAI.
+- [How to Test an AI Prompt Before It Reaches Real Users](https://digibog.com/how-to-test-an-ai-prompt-before-it-reaches-real-users/): Building a golden dataset, the five input types that break most prompts, output format checks, repeated runs and prompt versioning.
 
 
 ## Techniques
@@ -74,6 +75,7 @@ with Large Language Models.
 - [AutoPrompt](https://arxiv.org/abs/2010.15980): Eliciting Knowledge from Language Models with Automatically Generated Prompts.
 - [LangChain Github Repository](https://github.com/hwchase17/langchain): Building applications with LLMs through composability.
 - [Embedchain Github Repository](https://github.com/embedchain/embedchain): Framework to create ChatGPT-like bots over your dataset.
+- [How Many Examples Does a Prompt Need?](https://digibog.com/how-many-examples-does-a-prompt-need/): Few-shot prompting: why two to five examples usually work, how to choose them, and when examples hurt.
   
 ## Prompt Collections
 
@@ -195,6 +197,7 @@ with Large Language Models.
 - [Learn Prompting's Prompt Injection guide](https://learnprompting.org/docs/prompt_hacking/injection): A guide to prompt injections with examples.
 - [Prompt injection: What's the worst that can happen?](https://simonwillison.net/2023/Apr/14/worst-that-can-happen/)
 - [Prompt injections are bad, mkay?](https://greshake.github.io/)
+- [Prompt Injection: Why Your AI Prompt Leaks (And How to Contain It)](https://digibog.com/prompt-injection-why-your-ai-prompt-leaks-and-how-to-contain-it/): Direct and indirect injection, separating instructions from user data with delimiters, and limiting what a successful injection can do.
 
 ## ChatGPT Plug-ins
 
