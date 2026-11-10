@@ -180,6 +180,7 @@ with Large Language Models.
 - [LMQL](https://github.com/eth-sri/lmql): Query language for programming large language models.
 - [OpenPromptStudio](https://moonvy.com/apps/ops/)
 - [BossGPT](https://www.gptboss.com)
+- [Prompt Generator](https://trypromptgenerator.com): Writes prompts in the syntax of the AI tool you pick: ChatGPT, Claude, Gemini, Midjourney, Nano Banana, Veo, Sora and more. Free tier of 10 prompts a day without an account.
   
 ## Auto-GPT Related
 
