@@ -167,6 +167,7 @@ with Large Language Models.
 - [Opik](https://github.com/comet-ml/opik): Evaluate, test, and ship LLM applications across your dev and production lifecycles.
 - [Rhesis AI](https://github.com/rhesis-ai/rhesis): OSS Platform & SDK. Collaborative agent testing for teams.
 - [Rival](https://rival.tips): AI model comparison and multi-model Prompt Lab. Test prompts across 200+ models side-by-side with blind preference voting and open datasets.
+- [Litmiq](https://litmiq.com): A free, browser-based playground for running one system prompt against your test cases across several OpenAI models, comparing outputs side by side, and scoring answers with a per-metric LLM judge. You bring your own OpenAI key; there is no signup.
 
 ## Prompt Generators
 
