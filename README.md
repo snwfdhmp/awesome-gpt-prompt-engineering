@@ -177,6 +177,7 @@ with Large Language Models.
 - [PromptPerfect](https://promptperfect.jina.ai/): Prompt optimizer.
 - [Hero GPT](https://hero.page/ai-prompts): AI Prompt Generator.
 - [TubePrompter](https://tubeprompter.com): Converts YouTube, TikTok, and Instagram videos into AI-ready prompts for Sora, Midjourney, and Runway using computer vision analysis.
+- [PromptDC](https://promptdc.com): Desktop app for macOS and Windows that turns a rough request into a clear, complete prompt in any app or terminal.
 - [LMQL](https://github.com/eth-sri/lmql): Query language for programming large language models.
 - [OpenPromptStudio](https://moonvy.com/apps/ops/)
 - [BossGPT](https://www.gptboss.com)
